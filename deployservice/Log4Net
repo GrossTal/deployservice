@@ -1,0 +1,1180 @@
+2022-03-19 16:59:44,694 [5] INFO -   Service :        AJRouter
+2022-03-19 16:59:44,709 [5] INFO -     Display name:    AllJoyn Router Service
+2022-03-19 16:59:44,749 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:44,749 [5] INFO -     Description:     Routes AllJoyn messages for the local AllJoyn clients. If this service is stopped the AllJoyn clients that do not have their own bundled routers will be unable to run.
+2022-03-19 16:59:44,756 [5] INFO -   Service :        ALG
+2022-03-19 16:59:44,756 [5] INFO -     Display name:    Application Layer Gateway Service
+2022-03-19 16:59:44,765 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:44,765 [5] INFO -     Description:     Provides support for 3rd party protocol plug-ins for Internet Connection Sharing
+2022-03-19 16:59:44,765 [5] INFO -   Service :        AppIDSvc
+2022-03-19 16:59:44,765 [5] INFO -     Display name:    Application Identity
+2022-03-19 16:59:44,774 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:44,774 [5] INFO -     Description:     Determines and verifies the identity of an application. Disabling this service will prevent AppLocker from being enforced.
+2022-03-19 16:59:44,776 [5] INFO -   Service :        Appinfo
+2022-03-19 16:59:44,776 [5] INFO -     Display name:    Application Information
+2022-03-19 16:59:44,776 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,776 [5] INFO -     Description:     Facilitates the running of interactive applications with additional administrative privileges.  If this service is stopped, users will be unable to launch applications with the additional administrative privileges they may require to perform desired user tasks.
+2022-03-19 16:59:44,776 [5] INFO -   Service :        AppReadiness
+2022-03-19 16:59:44,786 [5] INFO -     Display name:    App Readiness
+2022-03-19 16:59:44,788 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,788 [5] INFO -     Description:     Gets apps ready for use the first time a user signs in to this PC and when adding new apps.
+2022-03-19 16:59:44,795 [5] INFO -   Service :        AppXSvc
+2022-03-19 16:59:44,795 [5] INFO -     Display name:    AppX Deployment Service (AppXSVC)
+2022-03-19 16:59:44,803 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,803 [5] INFO -     Description:     Provides infrastructure support for deploying Store applications. This service is started on demand and if disabled Store applications will not be deployed to the system, and may not function properly.
+2022-03-19 16:59:44,806 [5] INFO -   Service :        AsusAppService
+2022-03-19 16:59:44,806 [5] INFO -     Display name:    ASUS App Service
+2022-03-19 16:59:44,814 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,814 [5] INFO -     Description:     
+2022-03-19 16:59:44,816 [5] INFO -   Service :        ASUSLinkNear
+2022-03-19 16:59:44,816 [5] INFO -     Display name:    ASUS Link Near
+2022-03-19 16:59:44,824 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,824 [5] INFO -     Description:     
+2022-03-19 16:59:44,826 [5] INFO -   Service :        ASUSLinkRemote
+2022-03-19 16:59:44,826 [5] INFO -     Display name:    ASUS Link Remote
+2022-03-19 16:59:44,832 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,832 [5] INFO -     Description:     
+2022-03-19 16:59:44,835 [5] INFO -   Service :        ASUSOptimization
+2022-03-19 16:59:44,837 [5] INFO -     Display name:    ASUS Optimization
+2022-03-19 16:59:44,841 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,841 [5] INFO -     Description:     
+2022-03-19 16:59:44,847 [5] INFO -   Service :        ASUSSoftwareManager
+2022-03-19 16:59:44,847 [5] INFO -     Display name:    ASUS Software Manager
+2022-03-19 16:59:44,850 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,850 [5] INFO -     Description:     
+2022-03-19 16:59:44,856 [5] INFO -   Service :        ASUSSwitch
+2022-03-19 16:59:44,856 [5] INFO -     Display name:    ASUS Switch
+2022-03-19 16:59:44,864 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,864 [5] INFO -     Description:     
+2022-03-19 16:59:44,867 [5] INFO -   Service :        ASUSSystemAnalysis
+2022-03-19 16:59:44,867 [5] INFO -     Display name:    ASUS System Analysis
+2022-03-19 16:59:44,867 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,867 [5] INFO -     Description:     
+2022-03-19 16:59:44,876 [5] INFO -   Service :        ASUSSystemDiagnosis
+2022-03-19 16:59:44,876 [5] INFO -     Display name:    ASUS System Diagnosis
+2022-03-19 16:59:44,885 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,885 [5] INFO -     Description:     
+2022-03-19 16:59:44,885 [5] INFO -   Service :        AudioEndpointBuilder
+2022-03-19 16:59:44,885 [5] INFO -     Display name:    Windows Audio Endpoint Builder
+2022-03-19 16:59:44,893 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,893 [5] INFO -     Description:     Manages audio devices for the Windows Audio service.  If this service is stopped, audio devices and effects will not function properly.  If this service is disabled, any services that explicitly depend on it will fail to start
+2022-03-19 16:59:44,893 [5] INFO -   Service :        Audiosrv
+2022-03-19 16:59:44,893 [5] INFO -     Display name:    Windows Audio
+2022-03-19 16:59:44,903 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:44,903 [5] INFO -     Description:     Manages audio for Windows-based programs.  If this service is stopped, audio devices and effects will not function properly.  If this service is disabled, any services that explicitly depend on it will fail to start
+2022-03-19 16:59:44,905 [5] INFO -   Service :        autotimesvc
+2022-03-19 16:59:44,905 [5] INFO -     Display name:    Cellular Time
+2022-03-19 16:59:44,913 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:44,913 [5] INFO -     Description:     This service sets time based on NITZ messages from a Mobile Network
+2022-03-19 16:59:44,914 [5] INFO -   Service :        AxInstSV
+2022-03-19 16:59:44,915 [5] INFO -     Display name:    ActiveX Installer (AxInstSV)
+2022-03-19 16:59:44,915 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,915 [5] INFO -     Description:     Provides User Account Control validation for the installation of ActiveX controls from the Internet and enables management of ActiveX control installation based on Group Policy settings. This service is started on demand and if disabled the installation of ActiveX controls will behave according to default browser settings.
+2022-03-19 16:59:44,915 [5] INFO -   Service :        BDESVC
+2022-03-19 16:59:44,915 [5] INFO -     Display name:    BitLocker Drive Encryption Service
+2022-03-19 16:59:44,924 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:44,924 [5] INFO -     Description:     BDESVC hosts the BitLocker Drive Encryption service. BitLocker Drive Encryption provides secure startup for the operating system, as well as full volume encryption for OS, fixed or removable volumes. This service allows BitLocker to prompt users for various actions related to their volumes when mounted, and unlocks volumes automatically without user interaction. Additionally, it stores recovery information to Active Directory, if available, and, if necessary, ensures the most recent recovery certificates are used.  Stopping or disabling the service would prevent users from leveraging this functionality.
+2022-03-19 16:59:44,924 [5] INFO -   Service :        BFE
+2022-03-19 16:59:44,924 [5] INFO -     Display name:    Base Filtering Engine
+2022-03-19 16:59:44,935 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:44,935 [5] INFO -     Description:     The Base Filtering Engine (BFE) is a service that manages firewall and Internet Protocol security (IPsec) policies and implements user mode filtering. Stopping or disabling the BFE service will significantly reduce the security of the system. It will also result in unpredictable behavior in IPsec management and firewall applications.
+2022-03-19 16:59:44,935 [5] INFO -   Service :        BITS
+2022-03-19 16:59:44,942 [5] INFO -     Display name:    Background Intelligent Transfer Service
+2022-03-19 16:59:44,942 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,942 [5] INFO -     Description:     Transfers files in the background using idle network bandwidth. If the service is disabled, then any applications that depend on BITS, such as Windows Update or MSN Explorer, will be unable to automatically download programs and other information.
+2022-03-19 16:59:44,951 [5] INFO -   Service :        BrokerInfrastructure
+2022-03-19 16:59:44,951 [5] INFO -     Display name:    Background Tasks Infrastructure Service
+2022-03-19 16:59:44,958 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,958 [5] INFO -     Description:     Windows infrastructure service that controls which background tasks can run on the system.
+2022-03-19 16:59:44,960 [5] INFO -   Service :        Browser
+2022-03-19 16:59:44,961 [5] INFO -     Display name:    Computer Browser
+2022-03-19 16:59:44,961 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:44,961 [5] INFO -     Description:     Maintains an updated list of computers on the network and supplies this list to computers designated as browsers. If this service is stopped, this list will not be updated or maintained. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:44,970 [5] INFO -   Service :        BTAGService
+2022-03-19 16:59:44,970 [5] INFO -     Display name:    Bluetooth Audio Gateway Service
+2022-03-19 16:59:44,971 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:44,971 [5] INFO -     Description:     Service supporting the audio gateway role of the Bluetooth Handsfree Profile.
+2022-03-19 16:59:44,978 [5] INFO -   Service :        BthAvctpSvc
+2022-03-19 16:59:44,979 [5] INFO -     Display name:    AVCTP service
+2022-03-19 16:59:44,987 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:44,987 [5] INFO -     Description:     This is Audio Video Control Transport Protocol service
+2022-03-19 16:59:44,987 [5] INFO -   Service :        bthserv
+2022-03-19 16:59:44,989 [5] INFO -     Display name:    Bluetooth Support Service
+2022-03-19 16:59:44,997 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:44,997 [5] INFO -     Description:     The Bluetooth service supports discovery and association of remote Bluetooth devices.  Stopping or disabling this service may cause already installed Bluetooth devices to fail to operate properly and prevent new devices from being discovered or associated.
+2022-03-19 16:59:44,999 [5] INFO -   Service :        camsvc
+2022-03-19 16:59:44,999 [5] INFO -     Display name:    Capability Access Manager Service
+2022-03-19 16:59:45,006 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,006 [5] INFO -     Description:     Provides facilities for managing UWP apps access to app capabilities as well as checking an app's access to specific app capabilities
+2022-03-19 16:59:45,006 [5] INFO -   Service :        CDPSvc
+2022-03-19 16:59:45,008 [5] INFO -     Display name:    Connected Devices Platform Service
+2022-03-19 16:59:45,015 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,015 [5] INFO -     Description:     This service is used for Connected Devices Platform scenarios
+2022-03-19 16:59:45,017 [5] INFO -   Service :        CertPropSvc
+2022-03-19 16:59:45,017 [5] INFO -     Display name:    Certificate Propagation
+2022-03-19 16:59:45,018 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,018 [5] INFO -     Description:     Copies user certificates and root certificates from smart cards into the current user's certificate store, detects when a smart card is inserted into a smart card reader, and, if needed, installs the smart card Plug and Play minidriver.
+2022-03-19 16:59:45,026 [5] INFO -   Service :        ClickToRunSvc
+2022-03-19 16:59:45,026 [5] INFO -     Display name:    Microsoft Office Click-to-Run Service
+2022-03-19 16:59:45,034 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,034 [5] INFO -     Description:     ?Manages resource coordination, background streaming, and system integration of Microsoft Office products and their related updates. This service is required to run during the use of any Microsoft Office program, during initial streaming installation and all subsequent updates.?
+2022-03-19 16:59:45,035 [5] INFO -   Service :        ClipSVC
+2022-03-19 16:59:45,035 [5] INFO -     Display name:    Client Licence Service (ClipSVC)
+2022-03-19 16:59:45,043 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,043 [5] INFO -     Description:     Provides infrastructure support for the Microsoft Store. This service is started on demand and if disabled applications bought using Windows Store will not behave correctly.
+2022-03-19 16:59:45,043 [5] INFO -   Service :        com.docker.service
+2022-03-19 16:59:45,046 [5] INFO -     Display name:    Docker Desktop Service
+2022-03-19 16:59:45,053 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,053 [5] INFO -     Description:     
+2022-03-19 16:59:45,054 [5] INFO -   Service :        COMSysApp
+2022-03-19 16:59:45,054 [5] INFO -     Display name:    COM+ System Application
+2022-03-19 16:59:45,055 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,055 [5] INFO -     Description:     Manages the configuration and tracking of Component Object Model (COM)+-based components. If the service is stopped, most COM+-based components will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,064 [5] INFO -   Service :        CoreMessagingRegistrar
+2022-03-19 16:59:45,064 [5] INFO -     Display name:    CoreMessaging
+2022-03-19 16:59:45,066 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,066 [5] INFO -     Description:     Manages communication between system components.
+2022-03-19 16:59:45,066 [5] INFO -   Service :        cplspcon
+2022-03-19 16:59:45,073 [5] INFO -     Display name:    Intel(R) Content Protection HDCP Service
+2022-03-19 16:59:45,081 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,081 [5] INFO -     Description:     Intel(R) Content Protection HDCP Service - enables communication with Content Protection HDCP HW
+2022-03-19 16:59:45,083 [5] INFO -   Service :        CryptSvc
+2022-03-19 16:59:45,083 [5] INFO -     Display name:    Cryptographic Services
+2022-03-19 16:59:45,083 [5] INFO -     Start name:      NT Authority\NetworkService
+2022-03-19 16:59:45,083 [5] INFO -     Description:     Provides three management services: Catalog Database Service, which confirms the signatures of Windows files and allows new programs to be installed; Protected Root Service, which adds and removes Trusted Root Certification Authority certificates from this computer; and Automatic Root Certificate Update Service, which retrieves root certificates from Windows Update and enable scenarios such as SSL. If this service is stopped, these management services will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,083 [5] INFO -   Service :        DcomLaunch
+2022-03-19 16:59:45,083 [5] INFO -     Display name:    DCOM Server Process Launcher
+2022-03-19 16:59:45,100 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,100 [5] INFO -     Description:     The DCOMLAUNCH service launches COM and DCOM servers in response to object activation requests. If this service is stopped or disabled, programs using COM or DCOM will not function properly. It is strongly recommended that you have the DCOMLAUNCH service running.
+2022-03-19 16:59:45,100 [5] INFO -   Service :        defragsvc
+2022-03-19 16:59:45,102 [5] INFO -     Display name:    Optimise drives
+2022-03-19 16:59:45,102 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:45,102 [5] INFO -     Description:     Helps the computer run more efficiently by optimising files on storage drives.
+2022-03-19 16:59:45,102 [5] INFO -   Service :        deployservice
+2022-03-19 16:59:45,112 [5] INFO -     Display name:    deployservice
+2022-03-19 16:59:45,112 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,112 [5] INFO -     Description:     
+2022-03-19 16:59:45,112 [5] INFO -   Service :        DeviceAssociationService
+2022-03-19 16:59:45,120 [5] INFO -     Display name:    Device Association Service
+2022-03-19 16:59:45,122 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,122 [5] INFO -     Description:     Enables pairing between the system and wired or wireless devices.
+2022-03-19 16:59:45,122 [5] INFO -   Service :        DeviceInstall
+2022-03-19 16:59:45,130 [5] INFO -     Display name:    Device Install Service
+2022-03-19 16:59:45,131 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,131 [5] INFO -     Description:     Enables a computer to recognize and adapt to hardware changes with little or no user input. Stopping or disabling this service will result in system instability.
+2022-03-19 16:59:45,131 [5] INFO -   Service :        DevQueryBroker
+2022-03-19 16:59:45,131 [5] INFO -     Display name:    DevQuery Background Discovery Broker
+2022-03-19 16:59:45,140 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,140 [5] INFO -     Description:     Enables apps to discover devices with a backgroud task
+2022-03-19 16:59:45,140 [5] INFO -   Service :        Dhcp
+2022-03-19 16:59:45,140 [5] INFO -     Display name:    DHCP Client
+2022-03-19 16:59:45,148 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:45,148 [5] INFO -     Description:     Registers and updates IP addresses and DNS records for this computer. If this service is stopped, this computer will not receive dynamic IP addresses and DNS updates. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,148 [5] INFO -   Service :        diagnosticshub.standardcollector.service
+2022-03-19 16:59:45,148 [5] INFO -     Display name:    Microsoft (R) Diagnostics Hub Standard Collector Service
+2022-03-19 16:59:45,157 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,157 [5] INFO -     Description:     Diagnostics Hub Standard Collector Service. When running, this service collects real time ETW events and processes them.
+2022-03-19 16:59:45,157 [5] INFO -   Service :        diagsvc
+2022-03-19 16:59:45,165 [5] INFO -     Display name:    Diagnostic Execution Service
+2022-03-19 16:59:45,166 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,166 [5] INFO -     Description:     Executes diagnostic actions for troubleshooting support
+2022-03-19 16:59:45,166 [5] INFO -   Service :        DiagTrack
+2022-03-19 16:59:45,174 [5] INFO -     Display name:    Connected User Experiences and Telemetry
+2022-03-19 16:59:45,176 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,176 [5] INFO -     Description:     The Connected User Experiences and Telemetry service enables features that support in-application and connected user experiences. Additionally, this service manages the event driven collection and transmission of diagnostic and usage information (used to improve the experience and quality of the Windows Platform) when the diagnostics and usage privacy option settings are enabled under Feedback and Diagnostics.
+2022-03-19 16:59:45,176 [5] INFO -   Service :        DispBrokerDesktopSvc
+2022-03-19 16:59:45,184 [5] INFO -     Display name:    Display Policy Service
+2022-03-19 16:59:45,190 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,190 [5] INFO -     Description:     Manages the connection and configuration of local and remote displays
+2022-03-19 16:59:45,190 [5] INFO -   Service :        DisplayEnhancementService
+2022-03-19 16:59:45,192 [5] INFO -     Display name:    Display Enhancement Service
+2022-03-19 16:59:45,193 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,193 [5] INFO -     Description:     A service for managing display enhancement such as brightness control.
+2022-03-19 16:59:45,193 [5] INFO -   Service :        DmEnrollmentSvc
+2022-03-19 16:59:45,193 [5] INFO -     Display name:    Device Management Enrollment Service
+2022-03-19 16:59:45,202 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,202 [5] INFO -     Description:     Performs Device Enrollment Activities for Device Management
+2022-03-19 16:59:45,202 [5] INFO -   Service :        dmwappushservice
+2022-03-19 16:59:45,210 [5] INFO -     Display name:    Device Management Wireless Application Protocol (WAP) Push message Routing Service
+2022-03-19 16:59:45,219 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,220 [5] INFO -     Description:     Routes Wireless Application Protocol (WAP) Push messages received by the device and synchronizes Device Management sessions
+2022-03-19 16:59:45,220 [5] INFO -   Service :        Dnscache
+2022-03-19 16:59:45,220 [5] INFO -     Display name:    DNS Client
+2022-03-19 16:59:45,229 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:45,229 [5] INFO -     Description:     The DNS Client service (dnscache) caches Domain Name System (DNS) names and registers the full computer name for this computer. If the service is stopped, DNS names will continue to be resolved. However, the results of DNS name queries will not be cached and the computer's name will not be registered. If the service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,229 [5] INFO -   Service :        DoSvc
+2022-03-19 16:59:45,233 [5] INFO -     Display name:    Delivery Optimization
+2022-03-19 16:59:45,233 [5] INFO -     Start name:      NT Authority\NetworkService
+2022-03-19 16:59:45,233 [5] INFO -     Description:     Performs content delivery optimization tasks
+2022-03-19 16:59:45,243 [5] INFO -   Service :        dot3svc
+2022-03-19 16:59:45,243 [5] INFO -     Display name:    Wired AutoConfig
+2022-03-19 16:59:45,252 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:45,252 [5] INFO -     Description:     The Wired AutoConfig (DOT3SVC) service is responsible for performing IEEE 802.1X authentication on Ethernet interfaces. If your current wired network deployment enforces 802.1X authentication, the DOT3SVC service should be configured to run for establishing Layer 2 connectivity and/or providing access to network resources. Wired networks that do not enforce 802.1X authentication are unaffected by the DOT3SVC service.
+2022-03-19 16:59:45,255 [5] INFO -   Service :        DPS
+2022-03-19 16:59:45,255 [5] INFO -     Display name:    Diagnostic Policy Service
+2022-03-19 16:59:45,266 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,266 [5] INFO -     Description:     The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components.  If this service is stopped, diagnostics will no longer function.
+2022-03-19 16:59:45,267 [5] INFO -   Service :        DsmSvc
+2022-03-19 16:59:45,267 [5] INFO -     Display name:    Device Setup Manager
+2022-03-19 16:59:45,277 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,277 [5] INFO -     Description:     Enables the detection, download and installation of device-related software. If this service is disabled, devices may be configured with outdated software, and may not work correctly.
+2022-03-19 16:59:45,278 [5] INFO -   Service :        DsSvc
+2022-03-19 16:59:45,278 [5] INFO -     Display name:    Data Sharing Service
+2022-03-19 16:59:45,283 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,283 [5] INFO -     Description:     Provides data brokering between applications.
+2022-03-19 16:59:45,283 [5] INFO -   Service :        DtsApo4Service
+2022-03-19 16:59:45,291 [5] INFO -     Display name:    DtsApo4Service
+2022-03-19 16:59:45,294 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,294 [5] INFO -     Description:     
+2022-03-19 16:59:45,294 [5] INFO -   Service :        DusmSvc
+2022-03-19 16:59:45,294 [5] INFO -     Display name:    Data Usage
+2022-03-19 16:59:45,294 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:45,310 [5] INFO -     Description:     Network data usage, data limit, restrict background data, metered networks.
+2022-03-19 16:59:45,310 [5] INFO -   Service :        EapHost
+2022-03-19 16:59:45,310 [5] INFO -     Display name:    Extensible Authentication Protocol
+2022-03-19 16:59:45,311 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:45,311 [5] INFO -     Description:     The Extensible Authentication Protocol (EAP) service provides network authentication in such scenarios as 802.1x wired and wireless, VPN, and Network Access Protection (NAP).  EAP also provides application programming interfaces (APIs) that are used by network access clients, including wireless and VPN clients, during the authentication process.  If you disable this service, this computer is prevented from accessing networks that require EAP authentication.
+2022-03-19 16:59:45,319 [5] INFO -   Service :        edgeupdate
+2022-03-19 16:59:45,320 [5] INFO -     Display name:    Microsoft Edge Update Service (edgeupdate)
+2022-03-19 16:59:45,327 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,328 [5] INFO -     Description:     Keeps your Microsoft software up to date. If this service is disabled or stopped, your Microsoft software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Microsoft software using it.
+2022-03-19 16:59:45,329 [5] INFO -   Service :        edgeupdatem
+2022-03-19 16:59:45,329 [5] INFO -     Display name:    Microsoft Edge Update Service (edgeupdatem)
+2022-03-19 16:59:45,335 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,340 [5] INFO -     Description:     Keeps your Microsoft software up to date. If this service is disabled or stopped, your Microsoft software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Microsoft software using it.
+2022-03-19 16:59:45,340 [5] INFO -   Service :        EFS
+2022-03-19 16:59:45,341 [5] INFO -     Display name:    Encrypting File System (EFS)
+2022-03-19 16:59:45,348 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,348 [5] INFO -     Description:     Provides the core file encryption technology used to store encrypted files on NTFS file system volumes. If this service is stopped or disabled, applications will be unable to access encrypted files.
+2022-03-19 16:59:45,348 [5] INFO -   Service :        ELANFPService
+2022-03-19 16:59:45,348 [5] INFO -     Display name:    ELAN Service
+2022-03-19 16:59:45,358 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,358 [5] INFO -     Description:     
+2022-03-19 16:59:45,359 [5] INFO -   Service :        embeddedmode
+2022-03-19 16:59:45,359 [5] INFO -     Display name:    Embedded Mode
+2022-03-19 16:59:45,362 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,368 [5] INFO -     Description:     The Embedded Mode service enables scenarios related to Background Applications.  Disabling this service will prevent Background Applications from being activated.
+2022-03-19 16:59:45,368 [5] INFO -   Service :        EntAppSvc
+2022-03-19 16:59:45,369 [5] INFO -     Display name:    Enterprise App Management Service
+2022-03-19 16:59:45,371 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,371 [5] INFO -     Description:     Enables enterprise application management.
+2022-03-19 16:59:45,371 [5] INFO -   Service :        esifsvc
+2022-03-19 16:59:45,371 [5] INFO -     Display name:    Intel(R) Dynamic Tuning service
+2022-03-19 16:59:45,387 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,387 [5] INFO -     Description:     Intel(R) Dynamic Tuning service
+2022-03-19 16:59:45,387 [5] INFO -   Service :        EventLog
+2022-03-19 16:59:45,387 [5] INFO -     Display name:    Windows Event Log
+2022-03-19 16:59:45,391 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,391 [5] INFO -     Description:     This service manages events and event logs. It supports logging events, querying events, subscribing to events, archiving event logs, and managing event metadata. It can display events in both XML and plain text format. Stopping this service may compromise security and reliability of the system.
+2022-03-19 16:59:45,391 [5] INFO -   Service :        EventSystem
+2022-03-19 16:59:45,391 [5] INFO -     Display name:    COM+ Event System
+2022-03-19 16:59:45,407 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,407 [5] INFO -     Description:     Supports System Event Notification Service (SENS), which provides automatic distribution of events to subscribing Component Object Model (COM) components. If the service is stopped, SENS will close and will not be able to provide logon and logoff notifications. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,407 [5] INFO -   Service :        Fax
+2022-03-19 16:59:45,407 [5] INFO -     Display name:    Fax
+2022-03-19 16:59:45,417 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:45,418 [5] INFO -     Description:     Enables you to send and receive faxes, using fax resources available on this computer or on the network.
+2022-03-19 16:59:45,418 [5] INFO -   Service :        fdPHost
+2022-03-19 16:59:45,418 [5] INFO -     Display name:    Function Discovery Provider Host
+2022-03-19 16:59:45,424 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,428 [5] INFO -     Description:     The FDPHOST service hosts the Function Discovery (FD) network discovery providers. These FD providers supply network discovery services for the Simple Services Discovery Protocol (SSDP) and Web Services – Discovery (WS-D) protocol. Stopping or disabling the FDPHOST service will disable network discovery for these protocols when using FD. When this service is unavailable, network services using FD and relying on these discovery protocols will be unable to find network devices or resources.
+2022-03-19 16:59:45,429 [5] INFO -   Service :        FDResPub
+2022-03-19 16:59:45,429 [5] INFO -     Display name:    Function Discovery Resource Publication
+2022-03-19 16:59:45,429 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,429 [5] INFO -     Description:     Publishes this computer and resources attached to this computer so they can be discovered over the network.  If this service is stopped, network resources will no longer be published and they will not be discovered by other computers on the network.
+2022-03-19 16:59:45,429 [5] INFO -   Service :        fhsvc
+2022-03-19 16:59:45,429 [5] INFO -     Display name:    File History Service
+2022-03-19 16:59:45,448 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,448 [5] INFO -     Description:     Protects user files from accidental loss by copying them to a backup location
+2022-03-19 16:59:45,448 [5] INFO -   Service :        FontCache
+2022-03-19 16:59:45,448 [5] INFO -     Display name:    Windows Font Cache Service
+2022-03-19 16:59:45,457 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,457 [5] INFO -     Description:     Optimizes performance of applications by caching commonly used font data. Applications will start this service if it is not already running. It can be disabled, though doing so will degrade application performance.
+2022-03-19 16:59:45,457 [5] INFO -   Service :        FrameServer
+2022-03-19 16:59:45,457 [5] INFO -     Display name:    Windows Camera Frame Server
+2022-03-19 16:59:45,469 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,469 [5] INFO -     Description:     Enables multiple clients to access video frames from camera devices.
+2022-03-19 16:59:45,469 [5] INFO -   Service :        FrameServerMonitor
+2022-03-19 16:59:45,469 [5] INFO -     Display name:    Windows Camera Frame Server Monitor
+2022-03-19 16:59:45,475 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,475 [5] INFO -     Description:     Monitors the health and state for the Windows Camera Frame Server service.
+2022-03-19 16:59:45,475 [5] INFO -   Service :        GoogleChromeElevationService
+2022-03-19 16:59:45,483 [5] INFO -     Display name:    Google Chrome Elevation Service (GoogleChromeElevationService)
+2022-03-19 16:59:45,491 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,491 [5] INFO -     Description:     
+2022-03-19 16:59:45,493 [5] INFO -   Service :        gpsvc
+2022-03-19 16:59:45,493 [5] INFO -     Display name:    Group Policy Client
+2022-03-19 16:59:45,500 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,500 [5] INFO -     Description:     The service is responsible for applying settings configured by administrators for the computer and users through the Group Policy component. If the service is disabled, the settings will not be applied and applications and components will not be manageable through Group Policy. Any components or applications that depend on the Group Policy component might not be functional if the service is disabled.
+2022-03-19 16:59:45,500 [5] INFO -   Service :        GraphicsPerfSvc
+2022-03-19 16:59:45,502 [5] INFO -     Display name:    GraphicsPerfSvc
+2022-03-19 16:59:45,510 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,510 [5] INFO -     Description:     Graphics performance monitor service
+2022-03-19 16:59:45,510 [5] INFO -   Service :        gupdate
+2022-03-19 16:59:45,510 [5] INFO -     Display name:    Google Update Service (gupdate)
+2022-03-19 16:59:45,518 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,519 [5] INFO -     Description:     Keeps your Google software up to date. If this service is disabled or stopped, your Google software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Google software using it.
+2022-03-19 16:59:45,520 [5] INFO -   Service :        gupdatem
+2022-03-19 16:59:45,520 [5] INFO -     Display name:    Google Update Service (gupdatem)
+2022-03-19 16:59:45,527 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,529 [5] INFO -     Description:     Keeps your Google software up to date. If this service is disabled or stopped, your Google software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Google software using it.
+2022-03-19 16:59:45,529 [5] INFO -   Service :        hidserv
+2022-03-19 16:59:45,530 [5] INFO -     Display name:    Human Interface Device Service
+2022-03-19 16:59:45,536 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,536 [5] INFO -     Description:     Activates and maintains the use of hot buttons on keyboards, remote controls and other multimedia devices. It is recommended that you keep this service running.
+2022-03-19 16:59:45,536 [5] INFO -   Service :        hns
+2022-03-19 16:59:45,539 [5] INFO -     Display name:    Host Network Service
+2022-03-19 16:59:45,547 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,547 [5] INFO -     Description:     Provides support for Windows Virtual Networks.
+2022-03-19 16:59:45,547 [5] INFO -   Service :        HvHost
+2022-03-19 16:59:45,547 [5] INFO -     Display name:    HV Host Service
+2022-03-19 16:59:45,557 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,557 [5] INFO -     Description:     Provides an interface for the Hyper-V hypervisor to provide per-partition performance counters to the host operating system.
+2022-03-19 16:59:45,557 [5] INFO -   Service :        iaStorAfsService
+2022-03-19 16:59:45,560 [5] INFO -     Display name:    Intel(R) Optane(TM) Memory Service
+2022-03-19 16:59:45,566 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,569 [5] INFO -     Description:     Enables amazing system performance and responsiveness by accelerating frequently used files
+2022-03-19 16:59:45,569 [5] INFO -   Service :        ibtsiva
+2022-03-19 16:59:45,570 [5] INFO -     Display name:    Intel Bluetooth Service
+2022-03-19 16:59:45,572 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,572 [5] INFO -     Description:     Intel(R) Wireless Bluetooth(R) iBtSiva Service
+2022-03-19 16:59:45,572 [5] INFO -   Service :        icssvc
+2022-03-19 16:59:45,572 [5] INFO -     Display name:    Windows Mobile Hotspot Service
+2022-03-19 16:59:45,588 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:45,588 [5] INFO -     Description:     Provides the ability to share a mobile data connection with another device.
+2022-03-19 16:59:45,588 [5] INFO -   Service :        igccservice
+2022-03-19 16:59:45,589 [5] INFO -     Display name:    Intel(R) Graphics Command Center Service
+2022-03-19 16:59:45,597 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,598 [5] INFO -     Description:     Service for Intel(R) Graphics Command Center
+2022-03-19 16:59:45,598 [5] INFO -   Service :        igfxCUIService2.0.0.0
+2022-03-19 16:59:45,598 [5] INFO -     Display name:    Intel(R) HD Graphics Control Panel Service
+2022-03-19 16:59:45,602 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,602 [5] INFO -     Description:     Service for Intel(R) HD Graphics Control Panel
+2022-03-19 16:59:45,602 [5] INFO -   Service :        IKEEXT
+2022-03-19 16:59:45,602 [5] INFO -     Display name:    IKE and AuthIP IPsec Keying Modules
+2022-03-19 16:59:45,617 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,618 [5] INFO -     Description:     The IKEEXT service hosts the Internet Key Exchange (IKE) and Authenticated Internet Protocol (AuthIP) keying modules. These keying modules are used for authentication and key exchange in Internet Protocol security (IPsec). Stopping or disabling the IKEEXT service will disable IKE and AuthIP key exchange with peer computers. IPsec is typically configured to use IKE or AuthIP; therefore, stopping or disabling the IKEEXT service might result in an IPsec failure and might compromise the security of the system. It is strongly recommended that you have the IKEEXT service running.
+2022-03-19 16:59:45,619 [5] INFO -   Service :        InstallService
+2022-03-19 16:59:45,619 [5] INFO -     Display name:    Microsoft Store Install Service
+2022-03-19 16:59:45,628 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,629 [5] INFO -     Description:     Provides infrastructure support for the Microsoft Store. This service is started on demand, and if disabled then installations will not function properly.
+2022-03-19 16:59:45,630 [5] INFO -   Service :        Intel(R) Capability Licensing Service TCP IP Interface
+2022-03-19 16:59:45,630 [5] INFO -     Display name:    Intel(R) Capability Licensing Service TCP IP Interface
+2022-03-19 16:59:45,637 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,639 [5] INFO -     Description:     Version: 1.62.321.1
+2022-03-19 16:59:45,640 [5] INFO -   Service :        Intel(R) TPM Provisioning Service
+2022-03-19 16:59:45,640 [5] INFO -     Display name:    Intel(R) TPM Provisioning Service
+2022-03-19 16:59:45,648 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,648 [5] INFO -     Description:     Version: 1.62.321.1
+2022-03-19 16:59:45,650 [5] INFO -   Service :        IntelAudioService
+2022-03-19 16:59:45,650 [5] INFO -     Display name:    Intel(R) Audio Service
+2022-03-19 16:59:45,654 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,654 [5] INFO -     Description:     
+2022-03-19 16:59:45,654 [5] INFO -   Service :        iphlpsvc
+2022-03-19 16:59:45,654 [5] INFO -     Display name:    IP Helper
+2022-03-19 16:59:45,654 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,654 [5] INFO -     Description:     Provides tunnel connectivity using IPv6 transition technologies (6to4, ISATAP, Port Proxy, and Teredo), and IP-HTTPS. If this service is stopped, the computer will not have the enhanced connectivity benefits that these technologies offer.
+2022-03-19 16:59:45,670 [5] INFO -   Service :        IpxlatCfgSvc
+2022-03-19 16:59:45,670 [5] INFO -     Display name:    IP Translation Configuration Service
+2022-03-19 16:59:45,672 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,672 [5] INFO -     Description:     Configures and enables translation from v4 to v6 and vice versa
+2022-03-19 16:59:45,672 [5] INFO -   Service :        jhi_service
+2022-03-19 16:59:45,672 [5] INFO -     Display name:    Intel(R) Dynamic Application Loader Host Interface Service
+2022-03-19 16:59:45,688 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,688 [5] INFO -     Description:     Intel(R) Dynamic Application Loader Host Interface Service - Allows applications to access the local Intel (R) DAL
+2022-03-19 16:59:45,688 [5] INFO -   Service :        KeyIso
+2022-03-19 16:59:45,688 [5] INFO -     Display name:    CNG Key Isolation
+2022-03-19 16:59:45,688 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,688 [5] INFO -     Description:     The CNG key isolation service is hosted in the LSA process. The service provides key process isolation to private keys and associated cryptographic operations as required by the Common Criteria. The service stores and uses long-lived keys in a secure process complying with Common Criteria requirements.
+2022-03-19 16:59:45,688 [5] INFO -   Service :        KtmRm
+2022-03-19 16:59:45,688 [5] INFO -     Display name:    KtmRm for Distributed Transaction Coordinator
+2022-03-19 16:59:45,706 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:45,706 [5] INFO -     Description:     Coordinates transactions between the Distributed Transaction Coordinator (MSDTC) and the Kernel Transaction Manager (KTM). If it is not needed, it is recommended that this service remain stopped. If it is needed, both MSDTC and KTM will start this service automatically. If this service is disabled, any MSDTC transaction interacting with a Kernel Resource Manager will fail and any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,706 [5] INFO -   Service :        LanmanServer
+2022-03-19 16:59:45,706 [5] INFO -     Display name:    Server
+2022-03-19 16:59:45,722 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,722 [5] INFO -     Description:     Supports file, print, and named-pipe sharing over the network for this computer. If this service is stopped, these functions will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,722 [5] INFO -   Service :        LanmanWorkstation
+2022-03-19 16:59:45,722 [5] INFO -     Display name:    Workstation
+2022-03-19 16:59:45,734 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:45,734 [5] INFO -     Description:     Creates and maintains client network connections to remote servers using the SMB protocol. If this service is stopped, these connections will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,736 [5] INFO -   Service :        lfsvc
+2022-03-19 16:59:45,736 [5] INFO -     Display name:    Geolocation Service
+2022-03-19 16:59:45,736 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,736 [5] INFO -     Description:     This service monitors the current location of the system and manages geofences (a geographical location with associated events).  If you turn off this service, applications will be unable to use or receive notifications for geolocation or geofences.
+2022-03-19 16:59:45,736 [5] INFO -   Service :        LicenseManager
+2022-03-19 16:59:45,747 [5] INFO -     Display name:    Windows License Manager Service
+2022-03-19 16:59:45,755 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:45,755 [5] INFO -     Description:     Provides infrastructure support for the Microsoft Store.  This service is started on demand and if disabled then content acquired through the Microsoft Store will not function properly.
+2022-03-19 16:59:45,755 [5] INFO -   Service :        lltdsvc
+2022-03-19 16:59:45,755 [5] INFO -     Display name:    Link-Layer Topology Discovery Mapper
+2022-03-19 16:59:45,759 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,759 [5] INFO -     Description:     Creates a Network Map, consisting of PC and device topology (connectivity) information, and metadata describing each PC and device.  If this service is disabled, the Network Map will not function properly.
+2022-03-19 16:59:45,759 [5] INFO -   Service :        lmhosts
+2022-03-19 16:59:45,759 [5] INFO -     Display name:    TCP/IP NetBIOS Helper
+2022-03-19 16:59:45,775 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:45,775 [5] INFO -     Description:     Provides support for the NetBIOS over TCP/IP (NetBT) service and NetBIOS name resolution for clients on the network, therefore enabling users to share files, print, and log on to the network. If this service is stopped, these functions might be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,775 [5] INFO -   Service :        LMS
+2022-03-19 16:59:45,775 [5] INFO -     Display name:    Intel(R) Management and Security Application Local Management Service
+2022-03-19 16:59:45,781 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,781 [5] INFO -     Description:     Intel(R) Management and Security Application Local Management Service - Provides OS-related Intel(R) ME functionality.
+2022-03-19 16:59:45,781 [5] INFO -   Service :        LSM
+2022-03-19 16:59:45,781 [5] INFO -     Display name:    Local Session Manager
+2022-03-19 16:59:45,781 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,781 [5] INFO -     Description:     Core Windows Service that manages local user sessions. Stopping or disabling this service will result in system instability.
+2022-03-19 16:59:45,796 [5] INFO -   Service :        LxpSvc
+2022-03-19 16:59:45,797 [5] INFO -     Display name:    Language Experience Service
+2022-03-19 16:59:45,805 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,805 [5] INFO -     Description:     Provides infrastructure support for deploying and configuring localized Windows resources. This service is started on demand and, if disabled, additional Windows languages will not be deployed to the system, and Windows may not function properly.
+2022-03-19 16:59:45,808 [5] INFO -   Service :        LxssManager
+2022-03-19 16:59:45,808 [5] INFO -     Display name:    LxssManager
+2022-03-19 16:59:45,809 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,809 [5] INFO -     Description:     The LXSS Manager service supports running native ELF binaries. The service provides the infrastructure necessary for ELF binaries to run on Windows. If the service is stopped or disabled, those binaries will no longer run.
+2022-03-19 16:59:45,818 [5] INFO -   Service :        MapsBroker
+2022-03-19 16:59:45,819 [5] INFO -     Display name:    Downloaded Maps Manager
+2022-03-19 16:59:45,819 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:45,819 [5] INFO -     Description:     Windows service for application access to downloaded maps. This service is started on-demand by applications accessing downloaded maps. Disabling this service will prevent apps from accessing maps.
+2022-03-19 16:59:45,829 [5] INFO -   Service :        McAfee WebAdvisor
+2022-03-19 16:59:45,829 [5] INFO -     Display name:    McAfee WebAdvisor
+2022-03-19 16:59:45,829 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,829 [5] INFO -     Description:     McAfee WebAdvisor Service
+2022-03-19 16:59:45,829 [5] INFO -   Service :        McAPExe
+2022-03-19 16:59:45,829 [5] INFO -     Display name:    McAfee AP Service
+2022-03-19 16:59:45,848 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,848 [5] INFO -     Description:     McAfee AP Service
+2022-03-19 16:59:45,850 [5] INFO -   Service :        McAWFwk
+2022-03-19 16:59:45,850 [5] INFO -     Display name:    McAfee Activation Service
+2022-03-19 16:59:45,853 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,853 [5] INFO -     Description:     McAfee Activation Service
+2022-03-19 16:59:45,853 [5] INFO -   Service :        mccspsvc
+2022-03-19 16:59:45,853 [5] INFO -     Display name:    McAfee CSP Service
+2022-03-19 16:59:45,870 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,870 [5] INFO -     Description:     McAfee Cloud Platform Service
+2022-03-19 16:59:45,870 [5] INFO -   Service :        McpManagementService
+2022-03-19 16:59:45,870 [5] INFO -     Display name:    McpManagementService
+2022-03-19 16:59:45,878 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,878 [5] INFO -     Description:     
+2022-03-19 16:59:45,878 [5] INFO -   Service :        mfefire
+2022-03-19 16:59:45,878 [5] INFO -     Display name:    McAfee Firewall Core Service
+2022-03-19 16:59:45,878 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,878 [5] INFO -     Description:     Provides firewall services to McAfee products
+2022-03-19 16:59:45,878 [5] INFO -   Service :        mfemms
+2022-03-19 16:59:45,878 [5] INFO -     Display name:    McAfee Service Controller
+2022-03-19 16:59:45,895 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,895 [5] INFO -     Description:     Manages McAfee Services
+2022-03-19 16:59:45,895 [5] INFO -   Service :        mfevtp
+2022-03-19 16:59:45,895 [5] INFO -     Display name:    McAfee Validation Trust Protection Service
+2022-03-19 16:59:45,895 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,895 [5] INFO -     Description:     Provides validation trust protection services
+2022-03-19 16:59:45,895 [5] INFO -   Service :        MicrosoftEdgeElevationService
+2022-03-19 16:59:45,895 [5] INFO -     Display name:    Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)
+2022-03-19 16:59:45,911 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,911 [5] INFO -     Description:     Keeps Microsoft Edge up to update. If this service is disabled, the application will not be kept up to date.
+2022-03-19 16:59:45,911 [5] INFO -   Service :        MixedRealityOpenXRSvc
+2022-03-19 16:59:45,911 [5] INFO -     Display name:    Windows Mixed Reality OpenXR Service
+2022-03-19 16:59:45,911 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,911 [5] INFO -     Description:     Enables Mixed Reality OpenXR runtime functionality
+2022-03-19 16:59:45,911 [5] INFO -   Service :        ModuleCoreService
+2022-03-19 16:59:45,928 [5] INFO -     Display name:    McAfee Module Core Service
+2022-03-19 16:59:45,928 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,928 [5] INFO -     Description:     McAfee Module Core Service
+2022-03-19 16:59:45,928 [5] INFO -   Service :        mpssvc
+2022-03-19 16:59:45,928 [5] INFO -     Display name:    Windows Defender Firewall
+2022-03-19 16:59:45,945 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:45,945 [5] INFO -     Description:     Windows Defender Firewall helps to protect your computer by preventing unauthorised users from gaining access to your computer through the Internet or a network.
+2022-03-19 16:59:45,945 [5] INFO -   Service :        MSDTC
+2022-03-19 16:59:45,945 [5] INFO -     Display name:    Distributed Transaction Coordinator
+2022-03-19 16:59:45,945 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:45,945 [5] INFO -     Description:     Coordinates transactions that span multiple resource managers, such as databases, message queues, and file systems. If this service is stopped, these transactions will fail. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,945 [5] INFO -   Service :        MSiSCSI
+2022-03-19 16:59:45,945 [5] INFO -     Display name:    Microsoft iSCSI Initiator Service
+2022-03-19 16:59:45,961 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,961 [5] INFO -     Description:     Manages Internet SCSI (iSCSI) sessions from this computer to remote iSCSI target devices. If this service is stopped, this computer will not be able to login or access iSCSI targets. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,961 [5] INFO -   Service :        msiserver
+2022-03-19 16:59:45,961 [5] INFO -     Display name:    Windows Installer
+2022-03-19 16:59:45,961 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,961 [5] INFO -     Description:     Adds, modifies and removes applications provided as a Windows Installer or APPX package (*.msi, *.msp, *.appx). If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:45,961 [5] INFO -   Service :        NaturalAuthentication
+2022-03-19 16:59:45,961 [5] INFO -     Display name:    Natural Authentication
+2022-03-19 16:59:45,976 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,976 [5] INFO -     Description:     Signal aggregator service, that evaluates signals based on time, network, geolocation, bluetooth and cdf factors. Supported features are Device Unlock, Dynamic Lock and Dynamo MDM policies
+2022-03-19 16:59:45,976 [5] INFO -   Service :        NcaSvc
+2022-03-19 16:59:45,976 [5] INFO -     Display name:    Network Connectivity Assistant
+2022-03-19 16:59:45,976 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,976 [5] INFO -     Description:     Provides DirectAccess status notification for UI components
+2022-03-19 16:59:45,992 [5] INFO -   Service :        NcbService
+2022-03-19 16:59:45,993 [5] INFO -     Display name:    Network Connection Broker
+2022-03-19 16:59:45,993 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:45,993 [5] INFO -     Description:     Brokers connections that allow Windows Store Apps to receive notifications from the internet.
+2022-03-19 16:59:45,993 [5] INFO -   Service :        NcdAutoSetup
+2022-03-19 16:59:45,993 [5] INFO -     Display name:    Network Connected Devices Auto-Setup
+2022-03-19 16:59:46,010 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,010 [5] INFO -     Description:     Network Connected Devices Auto-Setup service monitors and installs qualified devices that connect to a qualified network. Stopping or disabling this service will prevent Windows from discovering and installing qualified network connected devices automatically. Users can still manually add network connected devices to a PC through the user interface.
+2022-03-19 16:59:46,010 [5] INFO -   Service :        Netlogon
+2022-03-19 16:59:46,010 [5] INFO -     Display name:    Netlogon
+2022-03-19 16:59:46,019 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,019 [5] INFO -     Description:     Maintains a secure channel between this computer and the domain controller for authenticating users and services. If this service is stopped, the computer may not authenticate users and services and the domain controller cannot register DNS records. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,027 [5] INFO -   Service :        Netman
+2022-03-19 16:59:46,027 [5] INFO -     Display name:    Network Connections
+2022-03-19 16:59:46,035 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,035 [5] INFO -     Description:     Manages objects in the Network and Dial-Up Connections folder, in which you can view both local area network and remote connections.
+2022-03-19 16:59:46,035 [5] INFO -   Service :        netprofm
+2022-03-19 16:59:46,035 [5] INFO -     Display name:    Network List Service
+2022-03-19 16:59:46,041 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:46,041 [5] INFO -     Description:     Identifies the networks the computer has connected to, collects and stores properties for these networks, and notifies applications when these properties change.
+2022-03-19 16:59:46,041 [5] INFO -   Service :        NetSetupSvc
+2022-03-19 16:59:46,041 [5] INFO -     Display name:    Network Setup Service
+2022-03-19 16:59:46,041 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,057 [5] INFO -     Description:     The Network Setup Service manages the installation of network drivers and permits the configuration of low-level network settings. If this service is stopped, any driver installations that are in progress may be cancelled.
+2022-03-19 16:59:46,057 [5] INFO -   Service :        NetTcpPortSharing
+2022-03-19 16:59:46,057 [5] INFO -     Display name:    Net.Tcp Port Sharing Service
+2022-03-19 16:59:46,057 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,057 [5] INFO -     Description:     Provides ability to share TCP ports over the net.tcp protocol.
+2022-03-19 16:59:46,057 [5] INFO -   Service :        NgcCtnrSvc
+2022-03-19 16:59:46,057 [5] INFO -     Display name:    Microsoft Passport Container
+2022-03-19 16:59:46,073 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,073 [5] INFO -     Description:     Manages local user identity keys used to authenticate the user to identity providers, as well as TPM virtual smart cards. If this service is disabled, local user identity keys and TPM virtual smart cards will not be accessible. It is recommended that you do not reconfigure this service.
+2022-03-19 16:59:46,073 [5] INFO -   Service :        NgcSvc
+2022-03-19 16:59:46,073 [5] INFO -     Display name:    Microsoft Passport
+2022-03-19 16:59:46,073 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,089 [5] INFO -     Description:     Provides process isolation for cryptographic keys used to provide authentication to a user’s associated identity providers. If this service is disabled, all uses and management of these keys will not be available, which includes machine log-on and single sign-on for apps and websites. This service starts and stops automatically. It is recommended that you do not reconfigure this service.
+2022-03-19 16:59:46,089 [5] INFO -   Service :        NlaSvc
+2022-03-19 16:59:46,089 [5] INFO -     Display name:    Network Location Awareness
+2022-03-19 16:59:46,089 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:46,089 [5] INFO -     Description:     Collects and stores configuration information for the network and notifies programmes when this information is modified. If this service is stopped, configuration information might be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,089 [5] INFO -   Service :        nsi
+2022-03-19 16:59:46,089 [5] INFO -     Display name:    Network Store Interface Service
+2022-03-19 16:59:46,105 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:46,105 [5] INFO -     Description:     This service delivers network notifications (e.g. interface addition/deleting etc) to user mode clients. Stopping this service will cause loss of network connectivity. If this service is disabled, any other services that explicitly depend on this service will fail to start.
+2022-03-19 16:59:46,105 [5] INFO -   Service :        nvagent
+2022-03-19 16:59:46,105 [5] INFO -     Display name:    Network Virtualization Service
+2022-03-19 16:59:46,105 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,105 [5] INFO -     Description:     Provides network virtualization services.
+2022-03-19 16:59:46,121 [5] INFO -   Service :        p2pimsvc
+2022-03-19 16:59:46,121 [5] INFO -     Display name:    Peer Networking Identity Manager
+2022-03-19 16:59:46,121 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,121 [5] INFO -     Description:     Provides identity services for the Peer Name Resolution Protocol (PNRP) and Peer-to-Peer Grouping services.  If disabled, the Peer Name Resolution Protocol (PNRP) and Peer-to-Peer Grouping services may not function, and some applications, such as HomeGroup and Remote Assistance, may not function correctly.
+2022-03-19 16:59:46,121 [5] INFO -   Service :        p2psvc
+2022-03-19 16:59:46,121 [5] INFO -     Display name:    Peer Networking Grouping
+2022-03-19 16:59:46,132 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,132 [5] INFO -     Description:     Enables multi-party communication using Peer-to-Peer Grouping.  If disabled, some applications, such as HomeGroup, may not function.
+2022-03-19 16:59:46,132 [5] INFO -   Service :        PcaSvc
+2022-03-19 16:59:46,132 [5] INFO -     Display name:    Program Compatibility Assistant Service
+2022-03-19 16:59:46,132 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,147 [5] INFO -     Description:     This service provides support for the Program Compatibility Assistant (PCA).  PCA monitors programs installed and run by the user and detects known compatibility problems. If this service is stopped, PCA will not function properly.
+2022-03-19 16:59:46,147 [5] INFO -   Service :        PEFService
+2022-03-19 16:59:46,147 [5] INFO -     Display name:    McAfee PEF Service
+2022-03-19 16:59:46,147 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,147 [5] INFO -     Description:     McAfee PEF Service
+2022-03-19 16:59:46,147 [5] INFO -   Service :        perceptionsimulation
+2022-03-19 16:59:46,147 [5] INFO -     Display name:    Windows Perception Simulation Service
+2022-03-19 16:59:46,163 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,163 [5] INFO -     Description:     Enables spatial perception simulation, virtual camera management and spatial input simulation.
+2022-03-19 16:59:46,163 [5] INFO -   Service :        PerfHost
+2022-03-19 16:59:46,163 [5] INFO -     Display name:    Performance Counter DLL Host
+2022-03-19 16:59:46,163 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,163 [5] INFO -     Description:     Enables remote users and 64-bit processes to query performance counters provided by 32-bit DLLs. If this service is stopped, only local users and 32-bit processes will be able to query performance counters provided by 32-bit DLLs.
+2022-03-19 16:59:46,163 [5] INFO -   Service :        PhoneSvc
+2022-03-19 16:59:46,163 [5] INFO -     Display name:    Phone Service
+2022-03-19 16:59:46,179 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:46,179 [5] INFO -     Description:     Manages the telephony state on the device
+2022-03-19 16:59:46,179 [5] INFO -   Service :        PIEServiceNew
+2022-03-19 16:59:46,179 [5] INFO -     Display name:    Intel® PROSet/Wireless Service
+2022-03-19 16:59:46,179 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,179 [5] INFO -     Description:     This service is part of the Intel® PROSet/Wireless WiFi Software
+2022-03-19 16:59:46,179 [5] INFO -   Service :        pla
+2022-03-19 16:59:46,179 [5] INFO -     Display name:    Performance Logs & Alerts
+2022-03-19 16:59:46,199 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,203 [5] INFO -     Description:     Performance Logs and Alerts Collects performance data from local or remote computers based on preconfigured schedule parameters, then writes the data to a log or triggers an alert. If this service is stopped, performance information will not be collected. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,203 [5] INFO -   Service :        PlugPlay
+2022-03-19 16:59:46,203 [5] INFO -     Display name:    Plug and Play
+2022-03-19 16:59:46,203 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,203 [5] INFO -     Description:     Enables a computer to recognize and adapt to hardware changes with little or no user input. Stopping or disabling this service will result in system instability.
+2022-03-19 16:59:46,203 [5] INFO -   Service :        PNRPAutoReg
+2022-03-19 16:59:46,203 [5] INFO -     Display name:    PNRP Machine Name Publication Service
+2022-03-19 16:59:46,219 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,219 [5] INFO -     Description:     This service publishes a machine name using the Peer Name Resolution Protocol.  Configuration is managed via the netsh context 'p2p pnrp peer' 
+2022-03-19 16:59:46,219 [5] INFO -   Service :        PNRPsvc
+2022-03-19 16:59:46,219 [5] INFO -     Display name:    Peer Name Resolution Protocol
+2022-03-19 16:59:46,228 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,228 [5] INFO -     Description:     Enables serverless peer name resolution over the Internet using the Peer Name Resolution Protocol (PNRP). If disabled, some peer-to-peer and collaborative applications, such as Remote Assistance, may not function.
+2022-03-19 16:59:46,228 [5] INFO -   Service :        PolicyAgent
+2022-03-19 16:59:46,228 [5] INFO -     Display name:    IPsec Policy Agent
+2022-03-19 16:59:46,232 [5] INFO -     Start name:      NT Authority\NetworkService
+2022-03-19 16:59:46,232 [5] INFO -     Description:     Internet Protocol security (IPsec) supports network-level peer authentication, data origin authentication, data integrity, data confidentiality (encryption), and replay protection.  This service enforces IPsec policies created through the IP Security Policies snap-in or the command-line tool "netsh ipsec".  If you stop this service, you may experience network connectivity issues if your policy requires that connections use IPsec.  Also,remote management of Windows Defender Firewall is not available when this service is stopped.
+2022-03-19 16:59:46,232 [5] INFO -   Service :        Power
+2022-03-19 16:59:46,232 [5] INFO -     Display name:    Power
+2022-03-19 16:59:46,232 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,248 [5] INFO -     Description:     Manages power policy and power policy notification delivery.
+2022-03-19 16:59:46,248 [5] INFO -   Service :        PrintNotify
+2022-03-19 16:59:46,248 [5] INFO -     Display name:    Printer Extensions and Notifications
+2022-03-19 16:59:46,252 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,252 [5] INFO -     Description:     This service opens custom printer dialogue boxes and handles notifications from a remote print server or a printer. If you turn this service off, you won’t be able to see printer extensions or notifications.
+2022-03-19 16:59:46,252 [5] INFO -   Service :        ProfSvc
+2022-03-19 16:59:46,252 [5] INFO -     Display name:    User Profile Service
+2022-03-19 16:59:46,252 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,252 [5] INFO -     Description:     This service is responsible for loading and unloading user profiles. If this service is stopped or disabled, users will no longer be able to successfully sign in or sign out, apps might have problems getting to users' data, and components registered to receive profile event notifications won't receive them.
+2022-03-19 16:59:46,252 [5] INFO -   Service :        PushToInstall
+2022-03-19 16:59:46,267 [5] INFO -     Display name:    Windows PushToInstall Service
+2022-03-19 16:59:46,273 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,273 [5] INFO -     Description:     Provides infrastructure support for the Microsoft Store.  This service is started automatically and if disabled then remote installations will not function properly.
+2022-03-19 16:59:46,273 [5] INFO -   Service :        QWAVE
+2022-03-19 16:59:46,273 [5] INFO -     Display name:    Quality Windows Audio Video Experience
+2022-03-19 16:59:46,273 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,273 [5] INFO -     Description:     Quality Windows Audio Video Experience (qWave) is a networking platform for Audio Video (AV) streaming applications on IP home networks. qWave enhances AV streaming performance and reliability by ensuring network quality-of-service (QoS) for AV applications. It provides mechanisms for admission control, run time monitoring and enforcement, application feedback, and traffic prioritization.
+2022-03-19 16:59:46,273 [5] INFO -   Service :        RasAuto
+2022-03-19 16:59:46,273 [5] INFO -     Display name:    Remote Access Auto Connection Manager
+2022-03-19 16:59:46,290 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:46,290 [5] INFO -     Description:     Creates a connection to a remote network whenever a program references a remote DNS or NetBIOS name or address.
+2022-03-19 16:59:46,290 [5] INFO -   Service :        RasMan
+2022-03-19 16:59:46,290 [5] INFO -     Display name:    Remote Access Connection Manager
+2022-03-19 16:59:46,290 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:46,306 [5] INFO -     Description:     Manages dial-up and virtual private network (VPN) connections from this computer to the Internet or other remote networks. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,306 [5] INFO -   Service :        RemoteAccess
+2022-03-19 16:59:46,307 [5] INFO -     Display name:    Routing and Remote Access
+2022-03-19 16:59:46,307 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:46,307 [5] INFO -     Description:     Offers routing services to businesses in local area and wide area network environments.
+2022-03-19 16:59:46,307 [5] INFO -   Service :        RemoteRegistry
+2022-03-19 16:59:46,307 [5] INFO -     Display name:    Remote Registry
+2022-03-19 16:59:46,324 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,324 [5] INFO -     Description:     Enables remote users to modify registry settings on this computer. If this service is stopped, the registry can be modified only by users on this computer. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,324 [5] INFO -   Service :        RetailDemo
+2022-03-19 16:59:46,324 [5] INFO -     Display name:    Retail Demo Service
+2022-03-19 16:59:46,324 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,324 [5] INFO -     Description:     The Retail Demo service controls device activity while the device is in retail demo mode.
+2022-03-19 16:59:46,324 [5] INFO -   Service :        RmSvc
+2022-03-19 16:59:46,324 [5] INFO -     Display name:    Radio Management Service
+2022-03-19 16:59:46,340 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,340 [5] INFO -     Description:     Radio Management and Airplane Mode Service
+2022-03-19 16:59:46,340 [5] INFO -   Service :        RpcEptMapper
+2022-03-19 16:59:46,340 [5] INFO -     Display name:    RPC Endpoint Mapper
+2022-03-19 16:59:46,340 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:46,340 [5] INFO -     Description:     Resolves RPC interfaces identifiers to transport endpoints. If this service is stopped or disabled, programs using Remote Procedure Call (RPC) services will not function properly.
+2022-03-19 16:59:46,340 [5] INFO -   Service :        RpcLocator
+2022-03-19 16:59:46,340 [5] INFO -     Display name:    Remote Procedure Call (RPC) Locator
+2022-03-19 16:59:46,356 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:46,356 [5] INFO -     Description:     In Windows 2003 and earlier versions of Windows, the Remote Procedure Call (RPC) Locator service manages the RPC name service database. In Windows Vista and later versions of Windows, this service does not provide any functionality and is present for application compatibility.
+2022-03-19 16:59:46,356 [5] INFO -   Service :        RpcSs
+2022-03-19 16:59:46,356 [5] INFO -     Display name:    Remote Procedure Call (RPC)
+2022-03-19 16:59:46,365 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:46,365 [5] INFO -     Description:     The RPCSS service is the Service Control Manager for COM and DCOM servers. It performs object activations requests, object exporter resolutions and distributed garbage collection for COM and DCOM servers. If this service is stopped or disabled, programs using COM or DCOM will not function properly. It is strongly recommended that you have the RPCSS service running.
+2022-03-19 16:59:46,365 [5] INFO -   Service :        RstMwService
+2022-03-19 16:59:46,365 [5] INFO -     Display name:    Intel(R) Storage Middleware Service
+2022-03-19 16:59:46,378 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,378 [5] INFO -     Description:     RPC endpoint service which allows communication between driver and Windows Store Application
+2022-03-19 16:59:46,378 [5] INFO -   Service :        RtkAudioUniversalService
+2022-03-19 16:59:46,382 [5] INFO -     Display name:    Realtek Audio Universal Service
+2022-03-19 16:59:46,390 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,390 [5] INFO -     Description:     Realtek Audio Universal Service
+2022-03-19 16:59:46,391 [5] INFO -   Service :        SamSs
+2022-03-19 16:59:46,391 [5] INFO -     Display name:    Security Accounts Manager
+2022-03-19 16:59:46,398 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,398 [5] INFO -     Description:     The startup of this service signals other services that the Security Accounts Manager (SAM) is ready to accept requests.  Disabling this service will prevent other services in the system from being notified when the SAM is ready, which may in turn cause those services to fail to start correctly. This service should not be disabled.
+2022-03-19 16:59:46,401 [5] INFO -   Service :        SCardSvr
+2022-03-19 16:59:46,401 [5] INFO -     Display name:    Smart Card
+2022-03-19 16:59:46,409 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,409 [5] INFO -     Description:     Manages access to smart cards read by this computer. If this service is stopped, this computer will be unable to read smart cards. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,411 [5] INFO -   Service :        ScDeviceEnum
+2022-03-19 16:59:46,411 [5] INFO -     Display name:    Smart Card Device Enumeration Service
+2022-03-19 16:59:46,411 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,411 [5] INFO -     Description:     Creates software device nodes for all smart card readers accessible to a given session. If this service is disabled, WinRT APIs will not be able to enumerate smart card readers.
+2022-03-19 16:59:46,420 [5] INFO -   Service :        Schedule
+2022-03-19 16:59:46,420 [5] INFO -     Display name:    Task Scheduler
+2022-03-19 16:59:46,428 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,428 [5] INFO -     Description:     Enables a user to configure and schedule automated tasks on this computer. The service also hosts multiple Windows system-critical tasks. If this service is stopped or disabled, these tasks will not be run at their scheduled times. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,430 [5] INFO -   Service :        SCPolicySvc
+2022-03-19 16:59:46,430 [5] INFO -     Display name:    Smart Card Removal Policy
+2022-03-19 16:59:46,433 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,433 [5] INFO -     Description:     Allows the system to be configured to lock the user desktop upon smart card removal.
+2022-03-19 16:59:46,439 [5] INFO -   Service :        SDRSVC
+2022-03-19 16:59:46,439 [5] INFO -     Display name:    Windows Backup
+2022-03-19 16:59:46,439 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:46,439 [5] INFO -     Description:     Provides Windows Backup and Restore capabilities.
+2022-03-19 16:59:46,448 [5] INFO -   Service :        seclogon
+2022-03-19 16:59:46,448 [5] INFO -     Display name:    Secondary Logon
+2022-03-19 16:59:46,448 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,448 [5] INFO -     Description:     Enables starting processes under alternate credentials. If this service is stopped, this type of log-on access will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,457 [5] INFO -   Service :        SecurityHealthService
+2022-03-19 16:59:46,458 [5] INFO -     Display name:    Windows Security Service
+2022-03-19 16:59:46,465 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,465 [5] INFO -     Description:     Windows Security Service handles unified device protection and health information
+2022-03-19 16:59:46,468 [5] INFO -   Service :        SEMgrSvc
+2022-03-19 16:59:46,468 [5] INFO -     Display name:    Payments and NFC/SE Manager
+2022-03-19 16:59:46,476 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,476 [5] INFO -     Description:     Manages payments and Near Field Communication (NFC) based secure elements.
+2022-03-19 16:59:46,478 [5] INFO -   Service :        SENS
+2022-03-19 16:59:46,478 [5] INFO -     Display name:    System Event Notification Service
+2022-03-19 16:59:46,485 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,485 [5] INFO -     Description:     Monitors system events and notifies subscribers to COM+ Event System of these events.
+2022-03-19 16:59:46,485 [5] INFO -   Service :        SensorDataService
+2022-03-19 16:59:46,488 [5] INFO -     Display name:    Sensor Data Service
+2022-03-19 16:59:46,489 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,489 [5] INFO -     Description:     Delivers data from a variety of sensors
+2022-03-19 16:59:46,489 [5] INFO -   Service :        SensorService
+2022-03-19 16:59:46,497 [5] INFO -     Display name:    Sensor Service
+2022-03-19 16:59:46,497 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,497 [5] INFO -     Description:     A service for sensors that manages different sensors' functionality. Manages Simple Device Orientation (SDO) and History for sensors. Loads the SDO sensor that reports device orientation changes.  If this service is stopped or disabled, the SDO sensor will not be loaded and so auto-rotation will not occur. History collection from Sensors will also be stopped.
+2022-03-19 16:59:46,497 [5] INFO -   Service :        SensrSvc
+2022-03-19 16:59:46,506 [5] INFO -     Display name:    Sensor Monitoring Service
+2022-03-19 16:59:46,506 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,506 [5] INFO -     Description:     Monitors various sensors in order to expose data and adapt to system and user state.  If this service is stopped or disabled, the display brightness will not adapt to lighting conditions. Stopping this service may affect other system functionality and features as well.
+2022-03-19 16:59:46,506 [5] INFO -   Service :        SessionEnv
+2022-03-19 16:59:46,515 [5] INFO -     Display name:    Remote Desktop Configuration
+2022-03-19 16:59:46,515 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:46,515 [5] INFO -     Description:     Remote Desktop Configuration service (RDCS) is responsible for all Remote Desktop Services and Remote Desktop related configuration and session maintenance activities that require SYSTEM context. These include per-session temporary folders, RD themes, and RD certificates.
+2022-03-19 16:59:46,524 [5] INFO -   Service :        SgrmBroker
+2022-03-19 16:59:46,524 [5] INFO -     Display name:    System Guard Runtime Monitor Broker
+2022-03-19 16:59:46,524 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,524 [5] INFO -     Description:     Monitors and attests to the integrity of the Windows platform.
+2022-03-19 16:59:46,524 [5] INFO -   Service :        SharedAccess
+2022-03-19 16:59:46,535 [5] INFO -     Display name:    Internet Connection Sharing (ICS)
+2022-03-19 16:59:46,537 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,537 [5] INFO -     Description:     Provides network address translation, addressing, name resolution and/or intrusion prevention services for a home or small office network.
+2022-03-19 16:59:46,537 [5] INFO -   Service :        SharedRealitySvc
+2022-03-19 16:59:46,537 [5] INFO -     Display name:    Spatial Data Service
+2022-03-19 16:59:46,544 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,544 [5] INFO -     Description:     This service is used for Spatial Perception scenarios
+2022-03-19 16:59:46,544 [5] INFO -   Service :        ShellHWDetection
+2022-03-19 16:59:46,552 [5] INFO -     Display name:    Shell Hardware Detection
+2022-03-19 16:59:46,560 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,560 [5] INFO -     Description:     Provides notifications for AutoPlay hardware events.
+2022-03-19 16:59:46,562 [5] INFO -   Service :        shpamsvc
+2022-03-19 16:59:46,562 [5] INFO -     Display name:    Shared PC Account Manager
+2022-03-19 16:59:46,570 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,570 [5] INFO -     Description:     Manages profiles and accounts on a SharedPC configured device
+2022-03-19 16:59:46,571 [5] INFO -   Service :        smphost
+2022-03-19 16:59:46,572 [5] INFO -     Display name:    Microsoft Storage Spaces SMP
+2022-03-19 16:59:46,572 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:46,572 [5] INFO -     Description:     Host service for the Microsoft Storage Spaces management provider. If this service is stopped or disabled, Storage Spaces cannot be managed.
+2022-03-19 16:59:46,580 [5] INFO -   Service :        SmsRouter
+2022-03-19 16:59:46,580 [5] INFO -     Display name:    Microsoft Windows SMS Router Service.
+2022-03-19 16:59:46,580 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:46,580 [5] INFO -     Description:     Routes messages based on rules to appropriate clients.
+2022-03-19 16:59:46,580 [5] INFO -   Service :        SNMPTrap
+2022-03-19 16:59:46,590 [5] INFO -     Display name:    SNMP Trap
+2022-03-19 16:59:46,592 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,592 [5] INFO -     Description:     Receives trap messages generated by local or remote Simple Network Management Protocol (SNMP) agents and forwards the messages to SNMP management programs running on this computer. If this service is stopped, SNMP-based programs on this computer will not receive SNMP trap messages. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,600 [5] INFO -   Service :        spectrum
+2022-03-19 16:59:46,600 [5] INFO -     Display name:    Windows Perception Service
+2022-03-19 16:59:46,600 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,600 [5] INFO -     Description:     Enables spatial perception, spatial input, and holographic rendering.
+2022-03-19 16:59:46,609 [5] INFO -   Service :        Spooler
+2022-03-19 16:59:46,609 [5] INFO -     Display name:    Print Spooler
+2022-03-19 16:59:46,617 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,617 [5] INFO -     Description:     This service spools print jobs and handles interaction with the printer.  If you turn off this service, you won’t be able to print or see your printers.
+2022-03-19 16:59:46,617 [5] INFO -   Service :        sppsvc
+2022-03-19 16:59:46,617 [5] INFO -     Display name:    Software Protection
+2022-03-19 16:59:46,627 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:46,627 [5] INFO -     Description:     Enables the download, installation and enforcement of digital licenses for Windows and Windows applications. If the service is disabled, the operating system and licensed applications may run in a notification mode. It is strongly recommended that you not disable the Software Protection service.
+2022-03-19 16:59:46,630 [5] INFO -   Service :        SSDPSRV
+2022-03-19 16:59:46,630 [5] INFO -     Display name:    SSDP Discovery
+2022-03-19 16:59:46,630 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,630 [5] INFO -     Description:     Discovers networked devices and services that use the SSDP discovery protocol, such as UPnP devices. Also announces SSDP devices and services running on the local computer. If this service is stopped, SSDP-based devices will not be discovered. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,639 [5] INFO -   Service :        ssh-agent
+2022-03-19 16:59:46,640 [5] INFO -     Display name:    OpenSSH Authentication Agent
+2022-03-19 16:59:46,646 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,646 [5] INFO -     Description:     Agent to hold private keys used for public key authentication.
+2022-03-19 16:59:46,648 [5] INFO -   Service :        SstpSvc
+2022-03-19 16:59:46,649 [5] INFO -     Display name:    Secure Socket Tunneling Protocol Service
+2022-03-19 16:59:46,649 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:46,649 [5] INFO -     Description:     Provides support for the Secure Socket Tunneling Protocol (SSTP) to connect to remote computers using VPN. If this service is disabled, users will not be able to use SSTP to access remote servers.
+2022-03-19 16:59:46,649 [5] INFO -   Service :        StateRepository
+2022-03-19 16:59:46,658 [5] INFO -     Display name:    State Repository Service
+2022-03-19 16:59:46,668 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,668 [5] INFO -     Description:     Provides required infrastructure support for the application model.
+2022-03-19 16:59:46,669 [5] INFO -   Service :        StiSvc
+2022-03-19 16:59:46,669 [5] INFO -     Display name:    Windows Image Acquisition (WIA)
+2022-03-19 16:59:46,676 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:46,676 [5] INFO -     Description:     Provides image acquisition services for scanners and cameras
+2022-03-19 16:59:46,676 [5] INFO -   Service :        StorSvc
+2022-03-19 16:59:46,679 [5] INFO -     Display name:    Storage Service
+2022-03-19 16:59:46,680 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,680 [5] INFO -     Description:     Provides enabling services for storage settings and external storage expansion
+2022-03-19 16:59:46,680 [5] INFO -   Service :        svsvc
+2022-03-19 16:59:46,680 [5] INFO -     Display name:    Spot Verifier
+2022-03-19 16:59:46,689 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,689 [5] INFO -     Description:     Verifies potential file system corruptions.
+2022-03-19 16:59:46,689 [5] INFO -   Service :        swprv
+2022-03-19 16:59:46,689 [5] INFO -     Display name:    Microsoft Software Shadow Copy Provider
+2022-03-19 16:59:46,696 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,696 [5] INFO -     Description:     Manages software-based volume shadow copies taken by the Volume Shadow Copy service. If this service is stopped, software-based volume shadow copies cannot be managed. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,704 [5] INFO -   Service :        SysMain
+2022-03-19 16:59:46,705 [5] INFO -     Display name:    SysMain
+2022-03-19 16:59:46,710 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,710 [5] INFO -     Description:     Maintains and improves system performance over time.
+2022-03-19 16:59:46,713 [5] INFO -   Service :        SystemEventsBroker
+2022-03-19 16:59:46,713 [5] INFO -     Display name:    System Events Broker
+2022-03-19 16:59:46,713 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,713 [5] INFO -     Description:     Coordinates execution of background work for WinRT application. If this service is stopped or disabled, then background work might not be triggered.
+2022-03-19 16:59:46,713 [5] INFO -   Service :        TabletInputService
+2022-03-19 16:59:46,722 [5] INFO -     Display name:    Touch Keyboard and Handwriting Panel Service
+2022-03-19 16:59:46,730 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,730 [5] INFO -     Description:     Enables Touch Keyboard and Handwriting Panel pen and ink functionality
+2022-03-19 16:59:46,733 [5] INFO -   Service :        TapiSrv
+2022-03-19 16:59:46,734 [5] INFO -     Display name:    Telephony
+2022-03-19 16:59:46,736 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:46,736 [5] INFO -     Description:     Provides Telephony API (TAPI) support for programs that control telephony devices on the local computer and, through the LAN, on servers that are also running the service.
+2022-03-19 16:59:46,742 [5] INFO -   Service :        TermService
+2022-03-19 16:59:46,742 [5] INFO -     Display name:    Remote Desktop Services
+2022-03-19 16:59:46,745 [5] INFO -     Start name:      NT Authority\NetworkService
+2022-03-19 16:59:46,745 [5] INFO -     Description:     Allows users to connect interactively to a remote computer. Remote Desktop and Remote Desktop Session Host Server depend on this service.  To prevent remote use of this computer, clear the checkboxes on the Remote tab of the System properties control panel item.
+2022-03-19 16:59:46,751 [5] INFO -   Service :        Themes
+2022-03-19 16:59:46,751 [5] INFO -     Display name:    Themes
+2022-03-19 16:59:46,759 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,759 [5] INFO -     Description:     Provides user experience theme management.
+2022-03-19 16:59:46,760 [5] INFO -   Service :        TieringEngineService
+2022-03-19 16:59:46,761 [5] INFO -     Display name:    Storage Tiers Management
+2022-03-19 16:59:46,761 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:46,761 [5] INFO -     Description:     Optimizes the placement of data in storage tiers on all tiered storage spaces in the system.
+2022-03-19 16:59:46,770 [5] INFO -   Service :        TimeBrokerSvc
+2022-03-19 16:59:46,770 [5] INFO -     Display name:    Time Broker
+2022-03-19 16:59:46,777 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,777 [5] INFO -     Description:     Coordinates execution of background work for WinRT application. If this service is stopped or disabled, then background work might not be triggered.
+2022-03-19 16:59:46,780 [5] INFO -   Service :        TokenBroker
+2022-03-19 16:59:46,780 [5] INFO -     Display name:    Web Account Manager
+2022-03-19 16:59:46,787 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,787 [5] INFO -     Description:     This service is used by Web Account Manager to provide single-sign-on to apps and services.
+2022-03-19 16:59:46,789 [5] INFO -   Service :        TrkWks
+2022-03-19 16:59:46,790 [5] INFO -     Display name:    Distributed Link Tracking Client
+2022-03-19 16:59:46,798 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,800 [5] INFO -     Description:     Maintains links between NTFS files within a computer or across computers in a network.
+2022-03-19 16:59:46,801 [5] INFO -   Service :        TroubleshootingSvc
+2022-03-19 16:59:46,801 [5] INFO -     Display name:    Recommended Troubleshooting Service
+2022-03-19 16:59:46,809 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,809 [5] INFO -     Description:     Enables automatic mitigation for known problems by applying recommended troubleshooting. If stopped, your device will not get recommended troubleshooting for problems on your device.
+2022-03-19 16:59:46,811 [5] INFO -   Service :        TrustedInstaller
+2022-03-19 16:59:46,811 [5] INFO -     Display name:    Windows Modules Installer
+2022-03-19 16:59:46,812 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:46,812 [5] INFO -     Description:     Enables installation, modification, and removal of Windows updates and optional components. If this service is disabled, install or uninstall of Windows updates might fail for this computer.
+2022-03-19 16:59:46,812 [5] INFO -   Service :        tzautoupdate
+2022-03-19 16:59:46,812 [5] INFO -     Display name:    Auto Time Zone Updater
+2022-03-19 16:59:46,827 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,827 [5] INFO -     Description:     Automatically sets the system time zone.
+2022-03-19 16:59:46,827 [5] INFO -   Service :        uhssvc
+2022-03-19 16:59:46,831 [5] INFO -     Display name:    Microsoft Update Health Service
+2022-03-19 16:59:46,837 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,837 [5] INFO -     Description:     Maintains Update Health
+2022-03-19 16:59:46,839 [5] INFO -   Service :        UmRdpService
+2022-03-19 16:59:46,839 [5] INFO -     Display name:    Remote Desktop Services UserMode Port Redirector
+2022-03-19 16:59:46,839 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:46,839 [5] INFO -     Description:     Allows the redirection of Printers/Drives/Ports for RDP connections
+2022-03-19 16:59:46,839 [5] INFO -   Service :        upnphost
+2022-03-19 16:59:46,847 [5] INFO -     Display name:    UPnP Device Host
+2022-03-19 16:59:46,849 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,849 [5] INFO -     Description:     Allows UPnP devices to be hosted on this computer. If this service is stopped, any hosted UPnP devices will stop functioning and no additional hosted devices can be added. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,849 [5] INFO -   Service :        UserManager
+2022-03-19 16:59:46,856 [5] INFO -     Display name:    User Manager
+2022-03-19 16:59:46,861 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,861 [5] INFO -     Description:     User Manager provides the runtime components required for multi-user interaction.  If this service is stopped, some applications may not operate correctly.
+2022-03-19 16:59:46,861 [5] INFO -   Service :        UsoSvc
+2022-03-19 16:59:46,861 [5] INFO -     Display name:    Update Orchestrator Service
+2022-03-19 16:59:46,866 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,866 [5] INFO -     Description:     Manages Windows Updates. If stopped, your devices will not be able to download and install the latest updates.
+2022-03-19 16:59:46,866 [5] INFO -   Service :        VacSvc
+2022-03-19 16:59:46,866 [5] INFO -     Display name:    Volumetric Audio Compositor Service
+2022-03-19 16:59:46,873 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,873 [5] INFO -     Description:     Hosts spatial analysis for Mixed Reality audio simulation.
+2022-03-19 16:59:46,880 [5] INFO -   Service :        VaultSvc
+2022-03-19 16:59:46,880 [5] INFO -     Display name:    Credential Manager
+2022-03-19 16:59:46,887 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,887 [5] INFO -     Description:     Provides secure storage and retrieval of credentials to users, applications and security service packages.
+2022-03-19 16:59:46,890 [5] INFO -   Service :        vds
+2022-03-19 16:59:46,890 [5] INFO -     Display name:    Virtual Disk
+2022-03-19 16:59:46,891 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,891 [5] INFO -     Description:     Provides management services for disks, volumes, file systems, and storage arrays.
+2022-03-19 16:59:46,898 [5] INFO -   Service :        vmcompute
+2022-03-19 16:59:46,898 [5] INFO -     Display name:    Hyper-V Host Compute Service
+2022-03-19 16:59:46,906 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,906 [5] INFO -     Description:     Provides support for running Windows Containers and Virtual Machines.
+2022-03-19 16:59:46,908 [5] INFO -   Service :        vmicguestinterface
+2022-03-19 16:59:46,908 [5] INFO -     Display name:    Hyper-V Guest Service Interface
+2022-03-19 16:59:46,910 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,910 [5] INFO -     Description:     Provides an interface for the Hyper-V host to interact with specific services running inside the virtual machine.
+2022-03-19 16:59:46,910 [5] INFO -   Service :        vmicheartbeat
+2022-03-19 16:59:46,917 [5] INFO -     Display name:    Hyper-V Heartbeat Service
+2022-03-19 16:59:46,923 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,923 [5] INFO -     Description:     Monitors the state of this virtual machine by reporting a heartbeat at regular intervals. This service helps you identify running virtual machines that have stopped responding.
+2022-03-19 16:59:46,925 [5] INFO -   Service :        vmickvpexchange
+2022-03-19 16:59:46,926 [5] INFO -     Display name:    Hyper-V Data Exchange Service
+2022-03-19 16:59:46,928 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,928 [5] INFO -     Description:     Provides a mechanism to exchange data between the virtual machine and the operating system running on the physical computer.
+2022-03-19 16:59:46,935 [5] INFO -   Service :        vmicrdv
+2022-03-19 16:59:46,935 [5] INFO -     Display name:    Hyper-V Remote Desktop Virtualization Service
+2022-03-19 16:59:46,937 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,937 [5] INFO -     Description:     Provides a platform for communication between the virtual machine and the operating system running on the physical computer.
+2022-03-19 16:59:46,943 [5] INFO -   Service :        vmicshutdown
+2022-03-19 16:59:46,943 [5] INFO -     Display name:    Hyper-V Guest Shutdown Service
+2022-03-19 16:59:46,943 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,943 [5] INFO -     Description:     Provides a mechanism to shut down the operating system of this virtual machine from the management interfaces on the physical computer.
+2022-03-19 16:59:46,951 [5] INFO -   Service :        vmictimesync
+2022-03-19 16:59:46,951 [5] INFO -     Display name:    Hyper-V Time Synchronization Service
+2022-03-19 16:59:46,959 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,959 [5] INFO -     Description:     Synchronizes the system time of this virtual machine with the system time of the physical computer.
+2022-03-19 16:59:46,959 [5] INFO -   Service :        vmicvmsession
+2022-03-19 16:59:46,961 [5] INFO -     Display name:    Hyper-V PowerShell Direct Service
+2022-03-19 16:59:46,962 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,962 [5] INFO -     Description:     Provides a mechanism to manage virtual machine with PowerShell via VM session without a virtual network.
+2022-03-19 16:59:46,962 [5] INFO -   Service :        vmicvss
+2022-03-19 16:59:46,962 [5] INFO -     Display name:    Hyper-V Volume Shadow Copy Requestor
+2022-03-19 16:59:46,972 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,972 [5] INFO -     Description:     Coordinates the communications that are required to use Volume Shadow Copy Service to back up applications and data on this virtual machine from the operating system on the physical computer.
+2022-03-19 16:59:46,972 [5] INFO -   Service :        VSS
+2022-03-19 16:59:46,978 [5] INFO -     Display name:    Volume Shadow Copy
+2022-03-19 16:59:46,979 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,979 [5] INFO -     Description:     Manages and implements Volume Shadow Copies used for backup and other purposes. If this service is stopped, shadow copies will be unavailable for backup and the backup may fail. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,979 [5] INFO -   Service :        VSStandardCollectorService150
+2022-03-19 16:59:46,988 [5] INFO -     Display name:    Visual Studio Standard Collector Service 150
+2022-03-19 16:59:46,993 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:46,993 [5] INFO -     Description:     Visual Studio Data Collection Service. When running, this service collects real-time ETW events and processes them.
+2022-03-19 16:59:46,993 [5] INFO -   Service :        W32Time
+2022-03-19 16:59:46,996 [5] INFO -     Display name:    Windows Time
+2022-03-19 16:59:46,996 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:46,996 [5] INFO -     Description:     Maintains date and time synchronization on all clients and servers in the network. If this service is stopped, date and time synchronization will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:46,996 [5] INFO -   Service :        WaaSMedicSvc
+2022-03-19 16:59:47,005 [5] INFO -     Display name:    Windows Update Medic Service
+2022-03-19 16:59:47,007 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,007 [5] INFO -     Description:     Enables remediation and protection of Windows Update components.
+2022-03-19 16:59:47,013 [5] INFO -   Service :        WalletService
+2022-03-19 16:59:47,014 [5] INFO -     Display name:    WalletService
+2022-03-19 16:59:47,019 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,019 [5] INFO -     Description:     Hosts objects used by clients of the wallet
+2022-03-19 16:59:47,019 [5] INFO -   Service :        WarpJITSvc
+2022-03-19 16:59:47,022 [5] INFO -     Display name:    Warp JIT Service
+2022-03-19 16:59:47,029 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:47,029 [5] INFO -     Description:     Enables JIT compilation support in d3d10warp.dll for processes in which code generation is disabled.
+2022-03-19 16:59:47,030 [5] INFO -   Service :        wbengine
+2022-03-19 16:59:47,030 [5] INFO -     Display name:    Block Level Backup Engine Service
+2022-03-19 16:59:47,031 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:47,031 [5] INFO -     Description:     The WBENGINE service is used by Windows Backup to perform backup and recovery operations. If this service is stopped by a user, it may cause the currently running backup or recovery operation to fail. Disabling this service may disable backup and recovery operations using Windows Backup on this computer.
+2022-03-19 16:59:47,031 [5] INFO -   Service :        WbioSrvc
+2022-03-19 16:59:47,031 [5] INFO -     Display name:    Windows Biometric Service
+2022-03-19 16:59:47,042 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,042 [5] INFO -     Description:     The Windows biometric service gives client applications the ability to capture, compare, manipulate, and store biometric data without gaining direct access to any biometric hardware or samples. The service is hosted in a privileged SVCHOST process.
+2022-03-19 16:59:47,042 [5] INFO -   Service :        Wcmsvc
+2022-03-19 16:59:47,042 [5] INFO -     Display name:    Windows Connection Manager
+2022-03-19 16:59:47,056 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:47,056 [5] INFO -     Description:     Makes automatic connect/disconnect decisions based on the network connectivity options currently available to the PC and enables management of network connectivity based on Group Policy settings.
+2022-03-19 16:59:47,056 [5] INFO -   Service :        wcncsvc
+2022-03-19 16:59:47,060 [5] INFO -     Display name:    Windows Connect Now - Config Registrar
+2022-03-19 16:59:47,060 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:47,060 [5] INFO -     Description:     WCNCSVC hosts the Windows Connect Now Configuration, which is Microsoft's Implementation of the Wireless Protected Setup (WPS) protocol. This is used to configure Wireless LAN settings for an Access Point (AP) or a Wireless Device. The service is started programmatically as needed.
+2022-03-19 16:59:47,060 [5] INFO -   Service :        WdiServiceHost
+2022-03-19 16:59:47,068 [5] INFO -     Display name:    Diagnostic Service Host
+2022-03-19 16:59:47,068 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:47,068 [5] INFO -     Description:     The Diagnostic Service Host is used by the Diagnostic Policy Service to host diagnostics that need to run in a Local Service context.  If this service is stopped, any diagnostics that depend on it will no longer function.
+2022-03-19 16:59:47,068 [5] INFO -   Service :        WdiSystemHost
+2022-03-19 16:59:47,068 [5] INFO -     Display name:    Diagnostic System Host
+2022-03-19 16:59:47,079 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,079 [5] INFO -     Description:     The Diagnostic System Host is used by the Diagnostic Policy Service to host diagnostics that need to run in a Local System context.  If this service is stopped, any diagnostics that depend on it will no longer function.
+2022-03-19 16:59:47,079 [5] INFO -   Service :        WdNisSvc
+2022-03-19 16:59:47,079 [5] INFO -     Display name:    Microsoft Defender Antivirus Network Inspection Service
+2022-03-19 16:59:47,087 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:47,087 [5] INFO -     Description:     Helps guard against intrusion attempts targeting known and newly discovered vulnerabilities in network protocols
+2022-03-19 16:59:47,094 [5] INFO -   Service :        WebClient
+2022-03-19 16:59:47,095 [5] INFO -     Display name:    WebClient
+2022-03-19 16:59:47,097 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:47,097 [5] INFO -     Description:     Enables Windows-based programs to create, access, and modify Internet-based files. If this service is stopped, these functions will not be available. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:47,104 [5] INFO -   Service :        Wecsvc
+2022-03-19 16:59:47,104 [5] INFO -     Display name:    Windows Event Collector
+2022-03-19 16:59:47,106 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:47,106 [5] INFO -     Description:     This service manages persistent subscriptions to events from remote sources that support WS-Management protocol. This includes Windows Vista event logs, hardware and IPMI-enabled event sources. The service stores forwarded events in a local Event Log. If this service is stopped or disabled event subscriptions cannot be created and forwarded events cannot be accepted.
+2022-03-19 16:59:47,106 [5] INFO -   Service :        WEPHOSTSVC
+2022-03-19 16:59:47,112 [5] INFO -     Display name:    Windows Encryption Provider Host Service
+2022-03-19 16:59:47,115 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:47,115 [5] INFO -     Description:     Windows Encryption Provider Host Service brokers encryption related functionalities from 3rd Party Encryption Providers to processes that need to evaluate and apply EAS policies. Stopping this will compromise EAS compliancy checks that have been established by the connected Mail Accounts
+2022-03-19 16:59:47,115 [5] INFO -   Service :        wercplsupport
+2022-03-19 16:59:47,122 [5] INFO -     Display name:    Problem Reports Control Panel Support
+2022-03-19 16:59:47,123 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:47,123 [5] INFO -     Description:     This service provides support for viewing, sending and deletion of system-level problem reports for the Problem Reports control panel.
+2022-03-19 16:59:47,123 [5] INFO -   Service :        WerSvc
+2022-03-19 16:59:47,130 [5] INFO -     Display name:    Windows Error Reporting Service
+2022-03-19 16:59:47,131 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:47,131 [5] INFO -     Description:     Allows errors to be reported when programs stop working or responding and allows existing solutions to be delivered. Also allows logs to be generated for diagnostic and repair services. If this service is stopped, error reporting might not work correctly and results of diagnostic services and repairs might not be displayed.
+2022-03-19 16:59:47,139 [5] INFO -   Service :        WFDSConMgrSvc
+2022-03-19 16:59:47,139 [5] INFO -     Display name:    Wi-Fi Direct Services Connection Manager Service
+2022-03-19 16:59:47,140 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:47,140 [5] INFO -     Description:     Manages connections to wireless services, including wireless display and docking.
+2022-03-19 16:59:47,140 [5] INFO -   Service :        WiaRpc
+2022-03-19 16:59:47,140 [5] INFO -     Display name:    Still Image Acquisition Events
+2022-03-19 16:59:47,150 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,150 [5] INFO -     Description:     Launches applications associated with still image acquisition events.
+2022-03-19 16:59:47,156 [5] INFO -   Service :        WinDefend
+2022-03-19 16:59:47,157 [5] INFO -     Display name:    Microsoft Defender Antivirus Service
+2022-03-19 16:59:47,164 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,164 [5] INFO -     Description:     Helps protect users from malware and other potentially unwanted software
+2022-03-19 16:59:47,166 [5] INFO -   Service :        WinHttpAutoProxySvc
+2022-03-19 16:59:47,167 [5] INFO -     Display name:    WinHTTP Web Proxy Auto-Discovery Service
+2022-03-19 16:59:47,169 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:47,169 [5] INFO -     Description:     WinHTTP implements the client HTTP stack and provides developers with a Win32 API and COM Automation component for sending HTTP requests and receiving responses. In addition, WinHTTP provides support for auto-discovering a proxy configuration via its implementation of the Web Proxy Auto-Discovery (WPAD) protocol.
+2022-03-19 16:59:47,175 [5] INFO -   Service :        Winmgmt
+2022-03-19 16:59:47,175 [5] INFO -     Display name:    Windows Management Instrumentation
+2022-03-19 16:59:47,182 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:47,182 [5] INFO -     Description:     Provides a common interface and object model to access management information about operating system, devices, applications and services. If this service is stopped, most Windows-based software will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2022-03-19 16:59:47,182 [5] INFO -   Service :        WinRM
+2022-03-19 16:59:47,182 [5] INFO -     Display name:    Windows Remote Management (WS-Management)
+2022-03-19 16:59:47,186 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:47,186 [5] INFO -     Description:     Windows Remote Management (WinRM) service implements the WS-Management protocol for remote management. WS-Management is a standard web services protocol used for remote software and hardware management. The WinRM service listens on the network for WS-Management requests and processes them. The WinRM Service needs to be configured with a listener using winrm.cmd command line tool or through Group Policy in order for it to listen over the network. The WinRM service provides access to WMI data and enables event collection. Event collection and subscription to events require that the service is running. WinRM messages use HTTP and HTTPS as transports. The WinRM service does not depend on IIS but is preconfigured to share a port with IIS on the same machine.  The WinRM service reserves the /wsman URL prefix. To prevent conflicts with IIS, administrators should ensure that any websites hosted on IIS do not use the /wsman URL prefix.
+2022-03-19 16:59:47,193 [5] INFO -   Service :        wisvc
+2022-03-19 16:59:47,193 [5] INFO -     Display name:    Windows Insider Service
+2022-03-19 16:59:47,201 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,202 [5] INFO -     Description:     Provides infrastructure support for the Windows Insider Programme. This service must remain enabled for the Windows Insider Programme to work.
+2022-03-19 16:59:47,202 [5] INFO -   Service :        WlanSvc
+2022-03-19 16:59:47,203 [5] INFO -     Display name:    WLAN AutoConfig
+2022-03-19 16:59:47,203 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,203 [5] INFO -     Description:     The WLANSVC service provides the logic required to configure, discover, connect to and disconnect from a wireless local area network (WLAN) as defined by IEEE 802.11 standards. It also contains the logic to turn your computer into a software access point so that other devices or computers can connect to your computer wirelessly using a WLAN adapter that can support this. Stopping or disabling the WLANSVC service will make all WLAN adapters on your computer inaccessible from the Windows networking UI. It is strongly recommended that you have the WLANSVC service running if your computer has a WLAN adapter.
+2022-03-19 16:59:47,203 [5] INFO -   Service :        wlidsvc
+2022-03-19 16:59:47,203 [5] INFO -     Display name:    Microsoft Account Sign-in Assistant
+2022-03-19 16:59:47,212 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,212 [5] INFO -     Description:     Enables user sign-in through Microsoft account identity services. If this service is stopped, users will not be able to logon to the computer with their Microsoft account.
+2022-03-19 16:59:47,212 [5] INFO -   Service :        wlpasvc
+2022-03-19 16:59:47,212 [5] INFO -     Display name:    Local Profile Assistant Service
+2022-03-19 16:59:47,222 [5] INFO -     Start name:      NT Authority\LocalService
+2022-03-19 16:59:47,222 [5] INFO -     Description:     This service provides profile management for subscriber identity modules
+2022-03-19 16:59:47,222 [5] INFO -   Service :        WManSvc
+2022-03-19 16:59:47,222 [5] INFO -     Display name:    Windows Management Service
+2022-03-19 16:59:47,233 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,233 [5] INFO -     Description:     Performs management including Provisioning and Enrollment activities
+2022-03-19 16:59:47,240 [5] INFO -   Service :        wmiApSrv
+2022-03-19 16:59:47,240 [5] INFO -     Display name:    WMI Performance Adapter
+2022-03-19 16:59:47,241 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:47,248 [5] INFO -     Description:     Provides performance library information from Windows Management Instrumentation (WMI) providers to clients on the network. This service only runs when Performance Data Helper is activated.
+2022-03-19 16:59:47,248 [5] INFO -   Service :        WMPNetworkSvc
+2022-03-19 16:59:47,249 [5] INFO -     Display name:    Windows Media Player Network Sharing Service
+2022-03-19 16:59:47,249 [5] INFO -     Start name:      NT AUTHORITY\NetworkService
+2022-03-19 16:59:47,249 [5] INFO -     Description:     Shares Windows Media Player libraries with other networked players and media devices using Universal Plug and Play
+2022-03-19 16:59:47,249 [5] INFO -   Service :        workfolderssvc
+2022-03-19 16:59:47,258 [5] INFO -     Display name:    Work Folders
+2022-03-19 16:59:47,266 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:47,266 [5] INFO -     Description:     This service syncs files with the Work Folders server, enabling you to use the files on any of the PCs and devices on which you've set up Work Folders.
+2022-03-19 16:59:47,266 [5] INFO -   Service :        WpcMonSvc
+2022-03-19 16:59:47,268 [5] INFO -     Display name:    Parental Controls
+2022-03-19 16:59:47,270 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,270 [5] INFO -     Description:     Enforces parental controls for child accounts in Windows. If this service is stopped or disabled, parental controls may not be enforced.
+2022-03-19 16:59:47,277 [5] INFO -   Service :        WPDBusEnum
+2022-03-19 16:59:47,277 [5] INFO -     Display name:    Portable Device Enumerator Service
+2022-03-19 16:59:47,280 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,280 [5] INFO -     Description:     Enforces group policy for removable mass-storage devices. Enables applications such as Windows Media Player and Image Import Wizard to transfer and synchronize content using removable mass-storage devices.
+2022-03-19 16:59:47,280 [5] INFO -   Service :        WpnService
+2022-03-19 16:59:47,287 [5] INFO -     Display name:    Windows Push Notifications System Service
+2022-03-19 16:59:47,289 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,289 [5] INFO -     Description:     This service runs in session 0 and hosts the notification platform and connection provider which handles the connection between the device and WNS server.
+2022-03-19 16:59:47,295 [5] INFO -   Service :        wscsvc
+2022-03-19 16:59:47,295 [5] INFO -     Display name:    Security Center
+2022-03-19 16:59:47,304 [5] INFO -     Start name:      NT AUTHORITY\LocalService
+2022-03-19 16:59:47,304 [5] INFO -     Description:     The WSCSVC (Windows Security Center) service monitors and reports security health settings on the computer.  The health settings include firewall (on/off), antivirus (on/off/out of date), antispyware (on/off/out of date), Windows Update (automatically/manually download and install updates), User Account Control (on/off), and Internet settings (recommended/not recommended). The service provides COM APIs for independent software vendors to register and record the state of their products to the Security Center service.  The Security and Maintenance UI uses the service to provide systray alerts and a graphical view of the security health states in the Security and Maintenance control panel.  Network Access Protection (NAP) uses the service to report the security health states of clients to the NAP Network Policy Server to make network quarantine decisions.  The service also has a public API that allows external consumers to programmatically retrieve the aggregated security health state of the system.
+2022-03-19 16:59:47,306 [5] INFO -   Service :        WSearch
+2022-03-19 16:59:47,306 [5] INFO -     Display name:    Windows Search
+2022-03-19 16:59:47,308 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,308 [5] INFO -     Description:     Provides content indexing, property caching, and search results for files, e-mail, and other content.
+2022-03-19 16:59:47,308 [5] INFO -   Service :        wuauserv
+2022-03-19 16:59:47,315 [5] INFO -     Display name:    Windows Update
+2022-03-19 16:59:47,317 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,317 [5] INFO -     Description:     Enables the detection, download and installation of updates for Windows and other programs. If this service is disabled, users of this computer will not be able to use Windows Update or its automatic updating feature, and programs will not be able to use the Windows Update Agent (WUA) API.
+2022-03-19 16:59:47,317 [5] INFO -   Service :        WwanSvc
+2022-03-19 16:59:47,324 [5] INFO -     Display name:    WWAN AutoConfig
+2022-03-19 16:59:47,324 [5] INFO -     Start name:      localSystem
+2022-03-19 16:59:47,324 [5] INFO -     Description:     This service manages mobile broadband (GSM & CDMA) data card/embedded module adapters and connections by auto-configuring the networks. It is strongly recommended that this service be kept running for best user experience of mobile broadband devices.
+2022-03-19 16:59:47,332 [5] INFO -   Service :        XblAuthManager
+2022-03-19 16:59:47,333 [5] INFO -     Display name:    Xbox Live Auth Manager
+2022-03-19 16:59:47,340 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,340 [5] INFO -     Description:     Provides authentication and authorisation services for interacting with Xbox Live. If this service is stopped, some applications may not operate correctly.
+2022-03-19 16:59:47,340 [5] INFO -   Service :        XblGameSave
+2022-03-19 16:59:47,343 [5] INFO -     Display name:    Xbox Live Game Save
+2022-03-19 16:59:47,343 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,343 [5] INFO -     Description:     This service syncs save data for Xbox Live save enabled games.  If this service is stopped, game save data will not upload to or download from Xbox Live.
+2022-03-19 16:59:47,343 [5] INFO -   Service :        XboxGipSvc
+2022-03-19 16:59:47,351 [5] INFO -     Display name:    Xbox Accessory Management Service
+2022-03-19 16:59:47,351 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,351 [5] INFO -     Description:     This service manages connected Xbox Accessories.
+2022-03-19 16:59:47,351 [5] INFO -   Service :        XboxNetApiSvc
+2022-03-19 16:59:47,359 [5] INFO -     Display name:    Xbox Live Networking Service
+2022-03-19 16:59:47,359 [5] INFO -     Start name:      LocalSystem
+2022-03-19 16:59:47,359 [5] INFO -     Description:     This service supports the Windows.Networking.XboxLive application programming interface.
+2022-03-19 16:59:47,367 [5] INFO -   Service :        AarSvc_9d7f3
+2022-03-19 16:59:47,367 [5] INFO -     Display name:    Agent Activation Runtime_9d7f3
+2022-03-19 16:59:47,374 [5] INFO -     Start name:      
+2022-03-19 16:59:47,374 [5] INFO -     Description:     Runtime for activating conversational agent applications
+2022-03-19 16:59:47,374 [5] INFO -   Service :        BcastDVRUserService_9d7f3
+2022-03-19 16:59:47,374 [5] INFO -     Display name:    GameDVR and Broadcast User Service_9d7f3
+2022-03-19 16:59:47,378 [5] INFO -     Start name:      
+2022-03-19 16:59:47,378 [5] INFO -     Description:     This user service is used for Game Recordings and Live Broadcasts
+2022-03-19 16:59:47,385 [5] INFO -   Service :        BluetoothUserService_9d7f3
+2022-03-19 16:59:47,386 [5] INFO -     Display name:    Bluetooth User Support Service_9d7f3
+2022-03-19 16:59:47,393 [5] INFO -     Start name:      
+2022-03-19 16:59:47,393 [5] INFO -     Description:     The Bluetooth user service supports proper functionality of Bluetooth features relevant to each user session.
+2022-03-19 16:59:47,396 [5] INFO -   Service :        CaptureService_9d7f3
+2022-03-19 16:59:47,396 [5] INFO -     Display name:    CaptureService_9d7f3
+2022-03-19 16:59:47,396 [5] INFO -     Start name:      
+2022-03-19 16:59:47,396 [5] INFO -     Description:     Enables optional screen capture functionality for applications that call the Windows.Graphics.Capture API.
+2022-03-19 16:59:47,404 [5] INFO -   Service :        cbdhsvc_9d7f3
+2022-03-19 16:59:47,404 [5] INFO -     Display name:    Clipboard User Service_9d7f3
+2022-03-19 16:59:47,405 [5] INFO -     Start name:      
+2022-03-19 16:59:47,405 [5] INFO -     Description:     This user service is used for Clipboard scenarios
+2022-03-19 16:59:47,405 [5] INFO -   Service :        CDPUserSvc_9d7f3
+2022-03-19 16:59:47,405 [5] INFO -     Display name:    Connected Devices Platform User Service_9d7f3
+2022-03-19 16:59:47,421 [5] INFO -     Start name:      
+2022-03-19 16:59:47,421 [5] INFO -     Description:     This user service is used for Connected Devices Platform scenarios
+2022-03-19 16:59:47,421 [5] INFO -   Service :        ConsentUxUserSvc_9d7f3
+2022-03-19 16:59:47,423 [5] INFO -     Display name:    ConsentUX User Service_9d7f3
+2022-03-19 16:59:47,423 [5] INFO -     Start name:      
+2022-03-19 16:59:47,423 [5] INFO -     Description:     Allows the system to request user consent to allow apps to access sensitive resources and information such as the device's location
+2022-03-19 16:59:47,431 [5] INFO -   Service :        CredentialEnrollmentManagerUserSvc_9d7f3
+2022-03-19 16:59:47,431 [5] INFO -     Display name:    CredentialEnrollmentManagerUserSvc_9d7f3
+2022-03-19 16:59:47,431 [5] INFO -     Start name:      
+2022-03-19 16:59:47,431 [5] INFO -     Description:     Credential Enrollment Manager
+2022-03-19 16:59:47,431 [5] INFO -   Service :        DeviceAssociationBrokerSvc_9d7f3
+2022-03-19 16:59:47,431 [5] INFO -     Display name:    DeviceAssociationBroker_9d7f3
+2022-03-19 16:59:47,442 [5] INFO -     Start name:      
+2022-03-19 16:59:47,442 [5] INFO -     Description:     Enables apps to pair devices
+2022-03-19 16:59:47,449 [5] INFO -   Service :        DevicePickerUserSvc_9d7f3
+2022-03-19 16:59:47,449 [5] INFO -     Display name:    DevicePicker_9d7f3
+2022-03-19 16:59:47,449 [5] INFO -     Start name:      
+2022-03-19 16:59:47,449 [5] INFO -     Description:     This user service is used for managing the Miracast, DLNA and DIAL UI
+2022-03-19 16:59:47,449 [5] INFO -   Service :        DevicesFlowUserSvc_9d7f3
+2022-03-19 16:59:47,458 [5] INFO -     Display name:    DevicesFlow_9d7f3
+2022-03-19 16:59:47,459 [5] INFO -     Start name:      
+2022-03-19 16:59:47,459 [5] INFO -     Description:     Allows ConnectUX and PC Settings to Connect and Pair with WiFi displays and Bluetooth devices.
+2022-03-19 16:59:47,459 [5] INFO -   Service :        MessagingService_9d7f3
+2022-03-19 16:59:47,459 [5] INFO -     Display name:    MessagingService_9d7f3
+2022-03-19 16:59:47,469 [5] INFO -     Start name:      
+2022-03-19 16:59:47,469 [5] INFO -     Description:     Service supporting text messaging and related functionality.
+2022-03-19 16:59:47,474 [5] INFO -   Service :        NPSMSvc_9d7f3
+2022-03-19 16:59:47,474 [5] INFO -     Display name:    NPSMSvc_9d7f3
+2022-03-19 16:59:47,481 [5] INFO -     Start name:      
+2022-03-19 16:59:47,481 [5] INFO -     Description:     
+2022-03-19 16:59:47,484 [5] INFO -   Service :        OneSyncSvc_9d7f3
+2022-03-19 16:59:47,484 [5] INFO -     Display name:    Sync Host_9d7f3
+2022-03-19 16:59:47,484 [5] INFO -     Start name:      
+2022-03-19 16:59:47,484 [5] INFO -     Description:     This service synchronizes mail, contacts, calendar and various other user data. Mail and other applications dependent on this functionality will not work properly when this service is not running.
+2022-03-19 16:59:47,484 [5] INFO -   Service :        P9RdrService_9d7f3
+2022-03-19 16:59:47,494 [5] INFO -     Display name:    P9RdrService_9d7f3
+2022-03-19 16:59:47,494 [5] INFO -     Start name:      
+2022-03-19 16:59:47,494 [5] INFO -     Description:     Enables trigger-starting plan9 file servers.
+2022-03-19 16:59:47,494 [5] INFO -   Service :        PenService_9d7f3
+2022-03-19 16:59:47,503 [5] INFO -     Display name:    PenService_9d7f3
+2022-03-19 16:59:47,503 [5] INFO -     Start name:      
+2022-03-19 16:59:47,503 [5] INFO -     Description:     Pen Service
+2022-03-19 16:59:47,511 [5] INFO -   Service :        PimIndexMaintenanceSvc_9d7f3
+2022-03-19 16:59:47,511 [5] INFO -     Display name:    Contact Data_9d7f3
+2022-03-19 16:59:47,511 [5] INFO -     Start name:      
+2022-03-19 16:59:47,511 [5] INFO -     Description:     Indexes contact data for fast contact searching. If you stop or disable this service, contacts might be missing from your search results.
+2022-03-19 16:59:47,511 [5] INFO -   Service :        PrintWorkflowUserSvc_9d7f3
+2022-03-19 16:59:47,511 [5] INFO -     Display name:    PrintWorkflow_9d7f3
+2022-03-19 16:59:47,511 [5] INFO -     Start name:      
+2022-03-19 16:59:47,527 [5] INFO -     Description:     Provides support for Print Workflow applications. If you turn off this service, you may not be able to print successfully.
+2022-03-19 16:59:47,528 [5] INFO -   Service :        UdkUserSvc_9d7f3
+2022-03-19 16:59:47,528 [5] INFO -     Display name:    Udk User Service_9d7f3
+2022-03-19 16:59:47,535 [5] INFO -     Start name:      
+2022-03-19 16:59:47,535 [5] INFO -     Description:     Shell components service
+2022-03-19 16:59:47,535 [5] INFO -   Service :        UnistoreSvc_9d7f3
+2022-03-19 16:59:47,537 [5] INFO -     Display name:    User Data Storage_9d7f3
+2022-03-19 16:59:47,537 [5] INFO -     Start name:      
+2022-03-19 16:59:47,537 [5] INFO -     Description:     Handles storage of structured user data, including contact info, calendars, messages and other content. If you stop or disable this service, apps that use this data might not work correctly.
+2022-03-19 16:59:47,537 [5] INFO -   Service :        UserDataSvc_9d7f3
+2022-03-19 16:59:47,537 [5] INFO -     Display name:    User Data Access_9d7f3
+2022-03-19 16:59:47,548 [5] INFO -     Start name:      
+2022-03-19 16:59:47,548 [5] INFO -     Description:     Provides apps with access to structured user data, including contact info, calendars, messages and other content. If you stop or disable this service, apps that use this data might not work correctly.
+2022-03-19 16:59:47,548 [5] INFO -   Service :        WpnUserService_9d7f3
+2022-03-19 16:59:47,555 [5] INFO -     Display name:    Windows Push Notifications User Service_9d7f3
+2022-03-19 16:59:47,555 [5] INFO -     Start name:      
+2022-03-19 16:59:47,555 [5] INFO -     Description:     This service hosts the Windows notification platform which provides support for local and push notifications. Supported notifications are tile, toast and raw.
